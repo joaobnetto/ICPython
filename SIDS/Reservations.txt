@@ -1,0 +1,1305 @@
+#ID	Group	Course	Name
+1	1	81	Natureza E Sociedade - 0070d23b06b1486a538c0eaa45dd167a
+3	3	53	Bromatologia - 01386bd6d8e091c2ab4c7c7de644d37b
+5	5	76	Gerenciamento E Controle Ambiental - 013d407166ec4fa56eb1e1f8cbe183b9
+6	6	178	Tópicos De Antropologia I - 01882513d5fa7c329e940dda99b12147
+8	8	161	Introdução A Genética - 01894d6f048493d2cacde3c579c315a3
+9	9	60	Matemática Discreta - 0189caa552598b845b29b17a427692d1
+10	10	142	Educação Especial E Inclusão - 018b59ce1fd616d874afad0f44ba338d
+11	11	169	Desenho Técnico - 01a0683665f38d8e5e567b3b15ca98bf
+13	12	156	Biofísica - 01e00f2f4bfcbb7505cb641066f2859b
+14	13	43	Cultura Brasileira - 01e9565cecc4e989123f9620c1d09c09
+16	15	79	Manutenção De Software - 0233f3bb964cf325a30f8b1c2ed2da93
+18	17	178	Antropologia 3 - 024d7f84fff11dd7e8d9c510137a2381
+21	12	156	Métodos Analíticos Em Biomedicina - 02f039058bd48307e6f653a2005c9dd2
+22	20	8	Química Geral - 02f657d55eaf1c4840ce8d66fcdaf90c
+23	21	13	Geometria Analítica - 03255088ed63354a54e0e5ed957e9008
+24	22	5	Direitos Humanos E Cidadania - 03e0704b5690a2dee1861dc3ad3316c9
+27	25	78	Políticas Educacionais E Fracasso Escolar - 04048aeca2c0f5d84639358008ed2ae7
+28	26	156	Genética - 046ddf96c233a273fd390c3d0b1a9aa4
+29	27	157	Zoologia Iii - 052335232b11864986bb2fa20fa38748
+31	29	157	Biogeografia - 0533a888904bd4867929dffd884d60b8
+32	30	155	Políticas Educacionais No Brasil - 0537fb40a68c18da59a35c2bfe1ca554
+33	31	35	Tópicos Em Geografia Humana - 05546b0e38ab9175cd905eebcc6ebb76
+34	32	81	Geoprocessamento Ii - 056ebf1440514c76ffb9ff542386fbdf
+35	33	95	Representação Descritiva Iii - 059fdcd96baeb75112f09fa1dcc740cc
+36	34	12	Métodos Dinâmicos Aplicados À Macroeconomia - 05a70454516ecd9194c293b0e415777f
+37	35	93	Introdução À Biologia Marinha - 05b9aaa377832cb02850a94d55fb2015
+38	36	60	Introdução À Computabilidade E À Complexidade Computacional - 05e853c7be992d9ba7189b00b97f855b
+39	37	178	Estágio Supervisionado I:Educação Não-Formal - 061412e4a03c02f9902576ec55ebbe77
+41	39	79	Introdução À Programação - 063e26c670d07bb7c4d30e6fc69fe056
+42	40	167	Saúde Do Adulto E Do Idoso - Sistema Urinário - 0663a4ddceacb40b095eda264a85f15c
+43	41	40	Introdução À Administração Pública - 069654d5ce089c13f642d19f09a3d1c0
+44	42	19	Linguagem E Matemática - 06997f04a7db92466a2baa6ebc8b872d
+45	43	41	Fundamentos Da Microeconomia - 06a81a4fb98d149f2d31c68828fa6eb2
+46	44	177	Genética E Evolução - 06c284d3f757b15c02f47f3ff06dc275
+47	34	12	Tópicos Especiais Em Teoria Econômica - 06d5ae105ea1bea4d800bc96491876e9
+48	45	83	Projeto 7 - 07042ac7d03d3b9911a00da43ce0079a
+49	43	41	Instituições Do Direito Público E Privado - 072b030ba126b2f4b2374f342be9ed44
+51	47	18	Geografia E Sociedade - 074177d3eb6371e32c16c55a3b8f706b
+52	48	8	Ciências Dos Materiais - 0747b9be4f90056c30eb5241f06bfe9b
+53	49	166	Metabolismo Celular - 076023edc9187cf1ac1f1163470e479a
+54	22	5	Ética E Legislação Em Rp E Comunicação - 0768281a05da9f27df178b5c39a51263
+55	50	103	Cultura De Célula Vegetal - 0771fc6f0f4b1d7d1bb73bbbe14e0e31
+57	17	178	Sociologia 3 - 07871915a8107172b3b5dc15a6574ad3
+58	52	41	Direito Empresarial - 07a96b1f61097ccb54be14d6a47439b0
+61	55	142	Educação Popular E Movimentos Sociais - 0829424ffa0d3a2547b6c9622c77de03
+62	56	155	Didática Para O Ensino De Física - 08d98638c6fcd194a4b1e6992063e944
+63	57	5	Fotografia - 08fe2621d8e716b02ec0da35256a998d
+64	58	41	Direito Trabalhista E Previdenciário - 093f65e080a295f8076b1c5722a46aa2
+65	59	133	Física I - 0950ca92a4dcf426067cfd2246bb5ff3
+67	61	180	Tutorial Em Saúde Iii - 09a5e2a11bea20817477e0b1dfe2cc21
+69	63	179	Trabalho Final De Curso 2 - 09c6c3783b4a70054da74f2538ed47c6
+71	17	178	Métodos E Técnicas De Pesquisa Social 2 - 0a113ef6b61820daa5611c870ed8d5ee
+72	65	167	Saúde Do Adulto E Do Idoso - Sistema Locomotor, Cirurgia Plástica E Geriatria/Cuidados Paliativos - 0a1bf96b7165e962e90cb14648c9462d
+73	66	48	Metodologia De Pesquisa Científica - 0a65e195cb51418279b6fa8d96847a60
+74	67	91	Introdução À Língua Brasileira De Sinais - Libras - 0a87257e5308197df43230edf4ad1dae
+75	68	88	Processo De Cuidar Em Saúde Da Criança E Do Adolescente Ii - 0abdc563a06105aee3c6136871c9f4d1
+76	69	79	Governança De Ti - 0ae2534d3b59dd939d034272ed73e891
+77	70	158	Biologia Molecular - 0ae3f79a30234b6c45a6f7d298ba1310
+78	71	81	Solos E Meio Ambiente - 0b1ec366924b26fc98fa7b71a9c249cf
+79	72	180	Tutorial Em Saúde Ii - 0b7e926154c1274e8b602ff0d7c133d7
+80	73	182	Introdução Ao Estudo De Políticas Públicas - 0bed45bd5774ffddc95ffe500024f628
+81	74	74	Construção De Software - 0bf727e907c5fc9d5356f11e4c45d613
+82	75	4	Jornalismo Especializado - 0c048b3a434e49e655c1247efb389cec
+84	77	58	Sociologia 1 - 0c215f194276000be6a6df6528067151
+85	28	88	Saúde Coletiva I - 0c8ce55163055c4da50a81e0a273468c
+87	79	155	Prática De Ensino Iii - 0cb929eae7a499e50248a3a78f7acfc7
+88	80	103	Farmacologia - 0d4f4805c36dc6853edfa4c7e1638b48
+89	81	77	Introdução À Análise De Risco - 0d7363894acdee742caf7fe4e97c4d49
+90	82	93	Introdução À Bioestatística - 0d73a25092e5c1c9769a9f3255caa65a
+91	83	60	Introdução À Programação - 0d7de1aca9299fe63f3e0041f02638a3
+92	80	103	Biotecnologia Aplicada À Patologia - 0dd205a72e3b2324deaadc7ee69bed98
+93	84	156	Epidemiologia - 0deb1c54814305ca9ad266f53bc82511
+95	86	119	Laboratório De Audiovisual - 0e3a37aa85a14e359df74fa77eded3f6
+96	8	161	Química Geral Teórica - 0e4a2c65bdaddd66a53422d93daebe68
+98	65	167	Saúde Do Adulto E Do Idoso - Sistema Urinário - 0e55666a4ad822e0e34299df3591d979
+99	55	142	Estágio De Docência Em Ciências Da Natureza No Ensino Médio Ou Eja Iii - 0e9fa1f3e9e66792401a6972d477dcc3
+100	88	41	Contabilidade Introdutória I - 0ebcc77dc72360d0eb8e9504c78d38bd
+102	13	43	Introdução À Publicidade E Propaganda - 0eec27c419d0fe24e53c90338cdc8bc6
+103	90	156	Diagnóstico Molecular - 0efbe98067c6c73dba1250d2beaa81f9
+107	93	18	Geomorfologia I - 0f46c64b74a6c964c674853a89796c8e
+108	94	154	Cálculo 3a - 0f840be9b8db4d3fbd5ba2ce59211f55
+110	96	103	Bases Da Biotecnologia - 0ff39bbbf981ac0151d340c9aa40e63e
+111	97	19	Didática Da Matemática I - 102f0bb6efb3a6128a3c750dd16729be
+112	98	161	Economia - 10907813b97e249163587e6246612e21
+113	99	155	Introdução À Física - 109a0ca3bc27f3e96597370d5c8cf03d
+115	30	155	Física Matemática I - 10a5ab2db37feedfdeaab192ead4ac0e
+116	26	156	Biossegurança - 10c272d06794d3e5785d5e7c5356e9ff
+117	101	79	Linguagens E Paradigmas De Programação - 10c66082c124f8afe3df4886f5e516e0
+118	102	40	Fundamentos Da Microeconomia - 1102a326d5f7c9e04fc3c89d0ede88c9
+119	103	95	Políticas Públicas Na Área Social, Cultural E Educacional - 1113d7a76ffceca1bb350bfe145467c6
+121	104	4	Psicologia - 1141938ba2c2b13f5505d7c424ebae5f
+122	34	12	Economia Social - 1145a30ff80745b56fb0cecf65305017
+123	105	29	Fundamentos Da Educação No Cinema - 1175defd049d3301e047ce50d93e9c7a
+124	106	18	Geografia De Goiás - 1177967c7957072da3dc1db4ceb30e7a
+125	107	53	Imunologia - 119322195f63d5945389a6175be50d41
+127	109	41	Contabilidade Governamental Ii - 11d0e6287202fced83f79975ec59a3a6
+128	110	79	Lógica Matemática - 11d70f78933c358aa1018f5aa66dfc7c
+129	111	79	Arquitetura De Computadores - 1207770fa114ba031dd46dd42e386dd1
+131	113	177	Imunologia Veterinária - 12a72a2bb8b6240f77553eccba49d4fb
+132	114	68	Hidrogeologia - 12b1e42dc0746f22cf361267de07073f
+133	115	77	Álgebra Linear - 12ffb0968f2f56e51a59a6beb37b2859
+134	116	18	Estágio Supervisionado Em Geografia Iii - 130f1a8e9e102707f3f91b010f151b0b
+135	117	93	Ciência Do Solo - 1368ba1ab6ed38bb1f26f36673739d54
+136	118	167	Método Clínico I - 136f951362dab62e64eb8e841183c2a9
+138	120	87	Físico-Química 1 - 1385974ed5904a438616ff7bdb3f7439
+139	121	53	Farmácia Hospitalar - 138bb0696595b338afbab333c555292a
+140	122	167	Método Clínico Iii - 139f0874f2ded2e41b0393c4ac5644f7
+141	3	53	Assistência Farmacêutica Em Serviços De Saúde - 13f9896df61279c928f19721878fac41
+142	123	154	Mecânica Quântica I - 1415db70fe9ddb119e23e9b2808cde38
+145	77	58	Sociologia 1 - 148260a1ce4fe4907df4cd475c442e28
+146	109	41	Contabilidade De Custos - 148510031349642de5ca0c544f31b2ef
+147	126	13	Introdução À Teoria Dos Números - 149815eb972b3c370dee3b89d645ae14
+148	127	81	Recursos Físicos Da Terra - 14a44c73f4f83557fd871d27d93c1bc9
+149	28	88	Saúde Coletiva I - 14c2fdfbb41b3a776fd6a2a1e835165f
+151	129	103	Biologia Celular - 14e942a6fa8e8f789b093840477a4707
+152	130	7	Fisiologia Humana - 14ea0d5b0cf49525d1866cb1e95ada5d
+153	131	12	Formação Econômica Do Brasil - 15231a7ce4ba789d13b722cc5c955834
+154	132	157	Mutagênese Ambiental - 155fa09596c7e18e50b58eb7e0c6ccb4
+155	133	5	Teorias Da Comunicação I - 1587965fb4d4b5afe8428a4a024feb0d
+156	134	137	Introdução Às Relações Internacionais - 158f3069a435b314a80bdcb024f8e422
+157	135	167	Saúde Do Adulto E Do Idoso - Psiquiatria/Medicina Legal E Saúde Mental Coletiva - 158fc2ddd52ec2cf54d3c161f2dd6517
+158	136	158	Zoologia I - Filogenia - 15dbe48503c50804d2905688a3b30e04
+159	116	18	Formação Do Território Brasileiro - 16026d60ff9b54410b3435b403afd226
+161	138	12	Demografia Econômica - 1651cf0d2f737d7adeab84d339dbabd3
+163	77	58	Antropologia 1 - 1680e9fa7b4dd5d62ece800239bb53bd
+164	139	166	Cálculo 2b - 168908dd3227b8358eababa07fcaf091
+165	140	157	Bioquímica Ii - 169779d3852b32ce8b1a1724dbf5217d
+167	123	154	Física Do Estado Sólido I - 1714726c817af50457d810aae9d27a2e
+170	141	161	Fisiologia Humana - 17ed8abedc255908be746d245e50263a
+171	133	5	Cultura Brasileira - 17fafe5f6ce2f1904eb09d2e80a4cbf6
+172	142	74	Computação E Sociedade - 1843e35d41ccf6e63273495ba42df3c1
+173	51	110	Sistemas De Informação E Decisão I - 185c29dc24325934ee377cfda20e414c
+174	143	137	Economia Brasileira - 186a157b2992e7daed3677ce8e9fe40f
+175	144	152	Estética E Filosofia Da Arte - 186dec21dc9765f87e23cfb410f306f3
+176	141	161	Bioquímica I - 1882d08e2f0fee76e54978fbff576289
+178	145	133	Eletrônica 1 - 18bb68e2b38e4a8ce7cf4f6b2625768c
+179	63	179	Tópicos De Sociologia I - 18d10dc6e666eab6de9215ae5b3d54df
+180	146	137	Tópicos De Relações Internacionais - 18ead4c77c3f40dabf9735432ac9d97a
+181	19	117	Estágio Curricular 1 - 190405a20e3f771fa5e6e3e309f7f7fc
+182	147	103	Astrobiologia - 192fc044e74dffea144f9ac5dc9f3395
+183	148	78	Estágio Em Educ. Inf. E Anos Ini. Do Ens. Fund Iii - 1943102704f8f8f3302c2b730728e023
+184	149	35	Geografia E Sociedade - 194cf6c2de8e00c05fcf16c498adc7bf
+185	150	95	Linguagens De Classificação I - 19de10adbaa1b2ee13f77f679fa1483a
+186	141	161	Fisiologia Humana - 19f12e7b3a310824f06f2a4557f994e6
+187	51	110	Usos E Usuários Da Informação - 19f3cd308f1455b3fa09a282e0d496f4
+188	151	75	Desenho Técnico Mecânico - 1a0a283bfe7c549dee6c638a05200e32
+189	152	79	Análise E Projeto De Algoritmos - 1a3f91fead97497b1a96d6104ad339f6
+190	34	12	Formação Econômica Do Brasil - 1a68e5f4ade56ed1d4bf273e55510750
+191	153	87	Termodinâmica Fundamental - 1a99f9c2c2f7d23809612e342186dcab
+192	97	19	Psicologia Da Educação I - 1aa48fc4880bb0c9b8a3bf979d3b917e
+194	154	76	Fenômenos De Transporte 2 - 1afa34a7f984eeabdbb0a7d494132ee5
+196	136	158	Química Geral Teórica - 1b113258af3968aaf3969ca67e744ff8
+197	156	40	Empreendedorismo I - 1b36ea1c9b7a1c3ad668b8bb5df7963f
+198	157	154	Física Matemática Ii - 1baff70e2669e8376347efd3a874a341
+199	104	4	Fotojornalismo - 1bc0249a6412ef49b07fe6f62e6dc8de
+200	137	88	Patologia Humana - 1bd46d90cf3855c0b5b747cb59656c0e
+201	158	83	Instalações Prediais I - Hidráulico - 1bf0c59238dd24a7f09a889483a50e8f
+202	26	156	Biomedicina E Saúde Coletiva - 1c54985e4f95b7819ca0357c0cb9a09f
+204	160	167	Saúde, Família E Comunidade I - 1c971df0461d476b9828f60b3285e1b2
+205	161	87	Cálculo 1a - 1cc3633c579a90cfdd895e64021e2163
+207	153	87	Química Orgânica 2 - 1ce1e074df7e8330c3d76ce1086b429e
+208	10	142	Psicologia Da Educação Ii - 1cecc7a77928ca8133fa24680a88d2f9
+212	163	161	Bioestatística - 1e056d2b0ebd5c878c550da6ac5d3724
+215	133	5	Introdução Às Relações Públicas - 1e48c4420b7073bc11916c6c1de226bb
+216	156	40	Pesquisa Operacional - 1e4d36177d71bbb3558e43af9577d70e
+217	165	158	Sistemática De Criptógamos - 1e8c391abfde9abea82d75a2d60278d4
+218	166	167	Método Clínico Iii - 1e913e1b06ead0b66e30b6867bf63549
+219	109	41	Pesquisa Aplicada A Contabilidade - 1ef91c212e30e14bf125e9374262401f
+220	167	142	Políticas E Gestão Da Educação - 1efa39bcaec6f3900149160693694536
+221	132	157	Tópicos Em Biologia - 1f1baa5b8edac74eb4eaa329f14a0361
+222	156	40	Administração De Recursos Materiais E Patrimoniais - 1f36c15d6a3d18d52e8d493bc8187cb9
+223	168	158	Biologia Evolutiva - 1f4fe6a4411edc2ff625888b4093e917
+224	118	167	Método Clínico I - 1f71e393b3809197ed66df836fe833e5
+225	52	41	Direito Empresarial - 1fb2a1c37b18aa4611c3949d6148d0f8
+228	51	110	Gerencia De Sistemas De Informação - 2050e03ca119580f74cca14cc6e97462
+229	170	60	Arquitetura De Computadores - 207f88018f72237565570f8a9e5ca240
+230	136	158	Biologia Celular - 20842bb7942ba45b56d90ec1d403b37c
+231	171	179	Sociologia 3 - 208e43f0e45c4c78cafadb83d2888cb6
+232	37	178	Estatística Aplicada Às Ciências Sociais 2 - 20aee3a5f4643755a79ee5f6a73050ac
+233	172	12	Introdução Às Ciências Sociais - 20b5e1cf8694af7a3c1ba4a87f073021
+235	174	87	Fundamentos De Mineralogia - 20d135f0f28185b84a4cf7aa51f29500
+238	129	103	Química Geral Teoria - 217c0e01c1828e7279051f1b6675745d
+239	77	58	Universidade, Cursos E Mercado De Trabalho Nas Ciências Sociais - 217e342fc01668b10cb1188d40d3370e
+240	175	164	Fundamentos Filosóficos E Sócio-Hist. Da Educação - 217eedd1ba8c592db97d0dbe54c7adfc
+241	176	79	Engenharia De Requisitos - 2194b3c092653850338c6923a7156726
+242	177	87	Física Ii - 21be9a4bd4f81549a9d1d241981cec3c
+243	178	73	Genética Molecular - 21fe5b8ba755eeaece7a450849876228
+244	179	103	Biotecnologia Aplicada À Microbiologia - 221ef46fa11a0589e2bba04721110815
+247	181	103	Bioquímica Metabólica - 228499b55310264a8ea0e27b6e7c6ab6
+250	183	18	Biogeografia - 229754d7799160502a143a72f6789927
+251	139	166	Introdução À Computação - 22fb0cee7e1f3bde58293de743871417
+252	136	158	Física Aplicada À Biologia - 231141b34c82aa95e48810a9d1b33a79
+253	184	13	Equações Diferenciais Ordinárias Ii - 2321994d85d661d792223f647000c65f
+254	26	156	Química Geral - 234833147b97bb6aed53a8f4f1c7a7d8
+257	186	157	Física Aplicada À Biologia - 23c97e9cb93576e45d2feaf00d0e8502
+258	187	93	Ecofisiologia Animal - 23d2e1578544b172cca332ff74bddf5f
+259	22	5	Gestão Estratégica - 24146db4eb48c718b84cae0a0799dcfc
+260	188	142	Didática E Formação De Professores Do Campo - 242c100dc94f871b6d7215b868a875f8
+261	109	41	Organização, Sistemas E Métodos - 2451041557a22145b3701b0184109cab
+262	189	161	Parasitologia Humana - 245b1d4ab28f9f28702c03952619b2ab
+263	30	155	Estágio I - 24681928425f5a9133504de568f5f6df
+264	190	8	Álgebra Linear - 24896ee4c6526356cc127852413ea3b4
+267	193	35	Prática De Planejamento Ambiental - 24f0d2c90473b2bc949ad962e61d9bcb
+268	82	93	Ecologia Evolutiva - 253614bbac999b38b5b60cae531c4969
+269	28	88	Saúde Coletiva I - 253bddabaaf1022f736d4941a4959b78
+270	107	53	Microbiologia Geral - 2557911c1bf75c2b643afb4ecbfc8ec2
+271	170	60	Software Básico - 2596a54cdbb555cfd09cd5d991da0f55
+272	34	12	Microeconomia I - 25db67c5657914454081c6a18e93d6dd
+273	194	8	Física Iii - 2612aa892d962d6f8056b195ca6e550d
+274	195	103	Legislação Em Biotecnologia - Propriedade Intelectual - 26408ffa703a72e8ac0117e74ad46f33
+276	84	156	Biologia Molecular - 26751be1181460baf78db8d5eb7aad39
+278	71	81	Planejamento Ambiental - 26f5bd4aa64fdadf96152ca6e6408068
+279	197	167	Introdução Ao Cuidar I - 2715518c875999308842e3455eda2fe3
+280	198	13	Geometria Plana - 273448411df1962cba1db6c05b3213c9
+282	200	167	Método Clínico I - 277a78fc05c8864a170e9a56ceeabc4c
+283	201	130	Princípios Físicos De Radioterapia - 27ed0fb950b856b06e1273989422e7d3
+284	202	19	Projetos Educacionais - 2823f4797102ce1a1aec05359cc16dd9
+285	69	79	Interação Humano-Computador - 28264c6292054fc82af6b53efbf42833
+286	136	158	Fundamentos Filosóficos E Sócio-Históricos Da Educação - 28267ab848bcf807b2ed53c3a8f8fc8a
+287	203	77	Introduction To Data Science Using R - 283085d30e10513624c8cece7993f4de
+289	42	19	Geometria Analítica - 288cc0ff022877bd3df94bc9360b9c5d
+291	158	83	Antropologia E Sociologia Urbana - 28e209b61a52482a0ae1cb9f5959c792
+293	206	41	Sistemas De Informações Contábeis - 297fa7777981f402dbba17e9f29e292d
+294	207	5	Fundamentos De Administração - 298923c8190045e91288b430794814c4
+295	208	91	Física 1 - 299570476c6f0309545110c592b6a63b
+297	135	167	Saúde Do Adulto E Do Idoso - Sistema Urinário - 299fb2142d7de959380f91c01c3a293c
+298	209	73	Introdução À Computação - 2a084e55c87b1ebcdaad1f62fdbbac8e
+299	210	157	Biologia De Microrganismos - 2a1ce8a1d245daacdff8f3d6c49db795
+300	12	156	Bioquímica I - 2a27b8144ac02f67687f76782a3b5d8f
+301	211	153	Neuropsicologia - 2a34abd6ebbd7fcf5a4421229c946c0a
+302	174	87	Introdução As Operações Unitárias - 2a79ea27c279e471f4d180b08d62b00a
+303	212	12	Álgebra Linear - 2a9d121cd9c3a1832bb6d2cc6bd7a8a7
+304	118	167	Corpo Humano Saudável I - 2aaaddf27344ee54058548dc081c6541
+305	158	83	Instalações Prediais I - Hidráulico - 2aedcba61ca55ceb62d785c6b7f10a83
+306	187	93	Ecofisiologia Animal - 2b0f658cbffd284984fb11d90254081f
+308	153	87	Química Analítica Quantitativa - 2b44928ae11fb9384c4cf38708677c48
+309	213	91	Química Analítica Quantitativa - 2b45c629e577731c4df84fc34f936a89
+311	215	166	Cálculo 2b - 2ba596643cbbbc20318224181fa46b28
+317	42	19	Cálculo Diferencial - 2ca65f58e35d9ad45bf7f3ae5cfd08f1
+318	219	35	Geomorfologia I - 2cad8fa47bbef282badbb8de5374b894
+319	109	41	Contabilidade Tributária - 2cb6b10338a7fc4117a80da24b582060
+320	149	35	Cartografia I - 2cd4e8a2ce081c3d7c32c3cde4312ef7
+321	220	43	História Da Publicidade - 2cfd4560539f887a5e420412b370b361
+322	67	91	Físico-Química 2 - 2d2ca7eedf739ef4c3800713ec482e1a
+323	110	79	Introdução Aos Sistemas De Informação - 2d3acd3e240c61820625fff66a19938f
+324	156	40	Gestão E Planejamento Estratégico - 2d405b367158e3f12d7c1e31a96b3af3
+325	221	53	Genética A - 2d969e2cee8cfa07ce7ca0bb13c7a36d
+326	222	146	Psicologia Da Educação I - 2dace78f80bc92e6d7493423d729448e
+327	126	13	Cálculo De Funções De Várias Variáveis - 2dcecb376dc5bea9d5bd792d3f142ba2
+329	3	53	Bromatologia - 2dea61eed4bceec564a00115c4d21334
+331	224	18	Fundamentos Filosóficos E Sócio-Históricos Da Educ - 2e65f2f2fdaf6c699b223c61b1b5ab89
+332	225	158	Bioquímica I - 2eace51d8f796d04991c831a07059758
+333	226	133	Introdução À Computação E Informação Quântica - 2f25f6e326adb93c5787175dda209ab6
+334	227	137	Laboratório De Relações Internacionais Iv - 2f2b265625d76a6704b08093c652fd79
+337	229	83	Cálculo 1c - 2f885d0fbe2e131bfc9d98363e55d1d4
+340	230	103	Bioética - 303ed4c69846ab36c2904d3ba8573050
+343	232	54	Fundam. Da Clínica Psicanalítica De Freud A Lacan - 30aaf34d6afd4b11cc3b3ac4704c7908
+344	3	53	Química Ambiental Aplicada À Farmácia - 30bb3825e8f631cc6075c0f87bb4978c
+346	77	58	Introdução À Metodologia Científica - 30f8f6b940d1073d8b6a5eebc46dd6e5
+348	227	137	Negociações Internacionais E Processos Decisórios - 310dcbbf4cce62f762a2aaa148d556bd
+349	234	79	Arquitetura De Software - 3147da8ab4a0437c15ef51a5cc7f2dc4
+350	152	79	Banco De Dados 2 - 31af3f4eee69744432287b95ddedc7f5
+351	207	5	Teorias Da Comunicação I - 31b3b31a1c2f8a370206f111127c0dbd
+352	26	156	Química Geral - 31c97cbb941d3e92d0e6f9925e9bc4d7
+353	235	137	Sociologia E Relações Internacionais - 320722549d1751cf3f247855f937b982
+354	236	156	Hematologia Básica - 3210ddbeaa16948a702b6049b8d9a202
+355	150	95	Teoria Da Comunicação - 3214a6d842cc69597f9edf26df552e43
+356	237	74	Métodos E Ferramentas De Engenharia De Software - 321cf86b4c9f5ddd04881a44067c2a5a
+357	156	40	Gestão De Projetos - 325995af77a0e8b06d1204a171010b3a
+359	238	153	Introdução Aos Estudos Sobre Envelhecimento - 329e6581efbc90bd92a1f22c4ba2103d
+360	239	74	Programação Orientada A Objetos - 32b991e5d77ad140559ffb95522992d0
+361	117	93	Introdução À Climatologia - 3323fe11e9595c09af38fe67567a9394
+362	79	155	Prática De Ensino Iii - 3328bdf9a4b9504b9398284244fe97c2
+363	240	74	Gerência De Configuração De Software - 339a18def9898dd60a634b2ad8fbbd58
+365	242	166	Fisiologia Do Desenvolvimento Vegetal - 33cb13d77bb67498aa863e84aaeaac44
+367	68	88	Gestão Em Saúde E Enfermagem I - 33ebd5b07dc7e407752fe773eed20635
+368	177	87	Estrutura E Propriedades Da Matéria - 3416a75f4cea9109507cacd8e2f2aefc
+369	244	72	Desenho I - 3430095c577593aad3c39c701712bcfe
+371	246	168	Desenho I - 347665597cbfaef834886adbb848011f
+372	247	157	Biologia Da Conservação - 34a561392444ad5fbb35d98cb5f93f39
+373	225	158	Biofísica - 350db081a661525235354dd3e19b8c05
+374	135	167	Saúde Da Criança, Adolescente E Saúde Coletiva Infantil - 351b33587c5fdd93bd42ef7ac9995a28
+375	248	77	Banco De Dados - 35464c848f410e55a13bb9d78e7fddd0
+376	133	5	Sociologia - 3546ab441e56fa333f8b44b610d95691
+378	208	91	Psicologia Da Educação 1 - 35cf8659cfcb13224cbd47863a34fc58
+379	153	87	Química Orgânica 1 - 35f4a8d465e6e1edc05f3d8ab658c551
+383	110	79	Algoritmos E Estruturas De Dados 1 - 365de006f6062a6b06c5fe547c30661c
+387	94	154	Física Ii - 372d3f309fef061977fb2f7ba36d74d2
+388	251	167	Método Clínico I - 378a063b8fdb1db941e34f4bde584c7d
+389	154	76	Introdução À Ciência De Materiais - 37bc2f75bf1bcfe8450a1a41c200364c
+391	98	161	Inquéritos Dietéticos - 37f0e884fbad9667e38940169d0a3c95
+392	252	5	Assessoria Em Comunicação I - 3806734b256c27e41ec2c6bffa26d9e7
+394	9	60	Metodologia De Pesquisa Em Computação - 3875115bacc48cca24ac51ee4b0e7975
+400	5	76	Higiene E Segurança Do Trabalho - 3988c7f88ebcb58c6ce932b957b6f332
+401	253	167	Saúde, Família E Comunidade I - 39ac6c2e0d42d4124947e257ee99bb2b
+402	80	103	Seminários Em Biotecnologia - 3a066bda8c96b9478bb0512f0a43028c
+404	42	19	Geometria Analítica - 3a835d3215755c435ef4fe9965a3f2a0
+405	186	157	Anatomia Vegetal - 3b0153850e183f76f86d19e9177c0e2a
+406	254	105	Introdução À Museologia - 3b5dca501ee1e6d8cd7b905f4e1bf723
+407	220	43	Redação Publicitária I - 3b712de48137572f3849aabd5666a4e3
+408	34	12	Economia Internacional - 3baa271bc35fe054c86928f7016e8ae6
+411	137	88	Parasitologia Humana - 3c1e4bd67169b8153e0047536c9f541e
+413	144	152	Tópicos De Filosofia Da Ciência - 3ca20462cb6f3160e275cef86bcb690c
+414	177	87	Cálculo 2a - 3cef96dcc9b8035d23f69e30bb19218a
+415	256	87	Preparo De Amostras - 3cf166c6b73f030b4f67eeaeba301103
+417	195	103	Aplicações Biotecnológicas Em Imunologia - 3d2d8ccb37df977cb6d9da15b76c3f3a
+418	136	158	Zoologia I - Filogenia - 3d48caede4847f6835eb62a2108d4bb5
+420	127	81	Tópicos Em Geologia - 3d8590494d8c654513b4fb23424e6592
+422	101	79	Gestão De Ti - 3dba45b283651c7f2d2cc974f97147d4
+424	134	137	Economia I - 3de2334a314a7a72721f1f74a6cb4cee
+425	213	91	Química Orgânica 1 - 3de568f8597b94bda53149c7d7f5958c
+426	208	91	Cálculo 1b - 3df1d4b96d8976ff5986393e8767f5b2
+427	259	12	Mercado De Derivativos I - 3e7e0224018ab3cf51abb96464d518cd
+431	261	36	Climatologia I - 3f53d7190148675e3cd472fc826828c5
+432	262	1	Tópicos Em Geologia 1 - 3f67fd97162d20e6fe27748b5b372509
+433	263	77	Estatística I - 3f998e713a6e02287c374fd26835d87e
+436	235	137	Política Internacional Contemporânea - 3fe94a002317b5f9259f82690aeea4cd
+437	156	40	Análise Multivariada Aplicada À Administração - 405e28906322882c5be9b4b27f4c35fd
+438	265	142	Fundamentos Filosóficos E Sócio Históricos Da Educação - 4079016d940210b4ae9ae7d41c4a2065
+439	116	18	Trabalho De Conclusão De Curso I - 40b5f25a228570053bc64a043c3f1833
+440	144	152	Estética - 40b88a397025e8e7b01538e39d1153f9
+441	82	93	Plantas Criptogâmicas - 40c48dab939a482f04dcecde07e27de6
+442	144	152	Tópicos De Filosofia I - 40f3b627f54d64dc0ae9d5835399c5c1
+444	266	167	Método Clínico Iii - 414e773d5b7e5c06d564f594bf6384d0
+445	267	166	Química Geral - 415e1af7ea95f89f4e375162b21ae38c
+448	5	76	Modelagem E Simulação De Processos - 42a0e188f5033bc65bf8d78622277c4e
+449	26	156	Biomedicina E Saúde Coletiva - 42a3964579017f3cb42b26605b9ae8ef
+451	269	167	Saúde Do Adulto E Do Idoso - Sistema Locomotor, Cirurgia Plástica E Geriatria/Cuidados Paliativos - 42ffcf057e133f94c1b7b5cf543ef3bd
+453	94	154	Cálculo Numérico - 430c3626b879b4005d41b8a46172e0c0
+454	143	137	Probabilidade E Estatística - 4311359ed4969e8401880e3c1836fbe1
+455	270	91	Química Fundamental - 43351f7bf9a215be70c2c2caa7555002
+457	104	4	Fotojornalismo - 43dd49b4fdb9bede653e94468ff8df1e
+458	184	13	Álgebra Ii - 43e4e6a6f341e00671e123714de019a8
+459	272	120	Psicologia Da Educação I - 443dec3062d0286986e21dc0631734c9
+460	206	41	Análise Das Demonstrações Contábeis - 4462bf0ddbe0d0da40e1e828ebebeb11
+461	33	95	Administração De Bibliotecas Outras Unidades De Informação - 44968aece94f667e4095002d140b5896
+462	41	40	Introdução À Administração De Empresas - 4496bf24afe7fab6f046bf4923da8de6
+464	145	133	Engenharia De Segurança - 453fadbd8a1a3af50a9df4df899537b5
+465	254	105	Introdução À Antropologia - 4558dbb6f6f8bb2e16d03b85bde76e2c
+466	273	161	Antropologia - 456ac9b0d15a8b7f1e71073221059886
+467	171	179	Políticas Para O Desenvolvimento Econômico - 4588e674d3f0faf985047d4c3f13ed0d
+468	241	80	Zoologia Aplicada À Zootecnia - 46031b3d04dc90994ca317a7c55c4289
+470	274	156	Bioinformática - 464d828b85b0bed98e80ade0a5c43b0f
+471	66	48	Estágio I - 466accbac9a66b805ba50e42ad715740
+472	51	110	Introdução À Economia - 4671aeaf49c792689533b00664a5c3ef
+473	63	179	Tópicos De Ciência Política I - 46771d1f432b42343f56f791422a4991
+474	275	18	Metodologia De Ensino De Geografia I - 46a558d97954d0692411c861cf78ef79
+475	202	19	Prática De Ensino Orientada - 470e7a4f017a5476afb7eeb3f8b96f9b
+476	183	18	Estágio Supervisionado Em Geografia I - 47810f956e3d8fb8a32fb276448b464d
+477	117	93	Zoologia Dos Vertebrados - 4888241374e8c62ddd9b4c3cfd091f96
+478	89	30	Núcleos Temáticos De Pesquisa Em Educação Física - 489d0396e6826eb0c1e611d82ca8b215
+479	20	8	Química Geral - 48c3ec5c3a93a9e294a8a6392ccedeb4
+481	225	158	Sistemática De Criptógamos - 490cabfe67afd2c87b2d5d4a40eefec6
+483	131	12	Macroeconomia Ii - 4921f95baf824205e1b13f22d60357a1
+484	276	158	Biologia Parasitária - 4968c89f34212a8417908db1e98e81d0
+485	143	137	Tópicos De Estudos Regionais - 49ae49a23f67c759bf4fc791ba842aa2
+490	81	77	Análise De Séries Temporais - 4a1590df1d5968d41b855005bb8b67bf
+491	279	43	Ética Da Comunicação E Legislação Publicitária - 4a213d37242bdcad8e7300e202e7caa4
+492	156	40	Pesquisa De Marketing - 4a3e00961a08879c34f91ca0070ea2f5
+493	280	166	Química Analítica Teórica - 4a8423d5e91fda00bb7e46540e2b0cf1
+494	281	91	Física 3 - 4abe17a1c80cbdd2aa241b70840879de
+495	34	12	Organização Industrial - 4aecfbe5d21e3f7912bf8eb29124423a
+496	156	40	Planejamento Financeiro E Orçamento Operacional - 4afd521d77158e02aed37e2274b90c9c
+498	34	12	Elaboração E Análise De Projetos - 4b4edc2630fe75800ddc29a7b4070add
+499	26	156	Cálculo 1c - 4b6538a44a1dfdc2b83477cd76dee98e
+500	283	158	Ecologia De Comunidades - 4b86abe48d358ecf194c56c69108433e
+501	101	79	Sistemas Distribuídos - 4b9c3b543d1f4c20f4c135db15ae30c6
+502	284	4	Sociologia - 4c22bd444899d3b6047a10b20a2f26db
+504	156	40	Aplicações Em Administração Iii - 4c7b03269a832e3b3420597a87e237a7
+505	142	74	Introdução À Programação - 4c8c76b39d294759a9000cbda3a6571a
+507	286	170	Desenho - 4cb811134b9d39fc3104bd06ce75abad
+510	288	81	Prática De Campo Integrada I - 4d6b3e38b952600251ee92fe603170ff
+512	172	12	Cálculo 1b - 4daa3db355ef2b0e64b472968cb70f0d
+513	13	43	História Da Arte - 4dcae38ee11d3a6606cc6cd636a3628b
+515	215	166	Anatomia Vegetal - 4dd6b4bbf0c618ddd48937cc0fffd36b
+516	218	92	Banco De Dados - 4dd9cec1c21bc54eecb53786a2c5fa09
+517	181	103	Química Analítica Teórica - 4de754248c196c85ee4fbdcee89179bd
+518	139	166	Química Analítica Teórica - 4e0223a87610176ef0d24ef6d2dcde3a
+519	202	19	Didática Da Matemática Iii - 4e0928de075538c593fbdabb0c5ef2c3
+520	161	87	Estatística - 4e0cb6fb5fb446d1c92ede2ed8780188
+521	167	142	Leitura E Produção De Textos I - 4e0d67e54ad6626e957d15b08ae128a6
+525	291	165	Histórias Em Quadrinhos De Autor - 4e6cd95227cb0c280e99a195be5f6615
+526	157	154	Física Computacional I - 4e8412ad48562e3c9934f45c3e144d48
+527	269	167	Saúde Da Criança, Adolescente E Saúde Coletiva Infantil - 4e9cec1f583056459111d63e24f3b8ef
+528	292	19	Fundamentos De Análise - 4ea06fbc83cdd0a06020c35d50e1e89a
+529	239	74	Linguagens E Paradigmas De Programação - 4ebccfb3e317c7789f04f7a558df4537
+533	294	50	Inglês Instrumental - 4f398cb9d6bc79ae567298335b51ba8a
+534	295	88	Psicologia No Processo Saúde-Doença - 4f87658ef0de194413056248a00ce009
+537	70	158	Morfologia E Sistemática De Espermatófitas - 504a41194194fbeaa5bbf34aec27521f
+538	297	12	Educação Para Relações Étnicas Raciais E Para Os Direitos Humanos - 5055cbf43fac3f7e2336b27310f0b9ef
+539	74	74	Processos De Software - 50abc3e730e36b387ca8e02c26dc0a22
+540	33	95	Tópicos Especiais Em Tecnologia Da Informação Ii - 5103c3584b063c431bd1268e9b5e76fb
+541	43	41	Matemática Financeira Aplicada A Contabilidade - 5129a5ddcd0dcd755232baa04c231698
+543	259	12	Monografia I - 515ab26c135e92ed8bf3a594d67e4ade
+544	127	81	Geologia Ambiental - 51de85ddd068f0bc787691d356176df9
+548	34	12	Economia Social - 5249ee8e0cff02ad6b4cc0ee0e50b7d1
+549	206	41	Contabilidade De Custos - 52947e0ade57a09e4a1386d08f17b656
+550	110	79	Metodologia Científica 1 - 52cf49fea5ff66588408852f65cf8272
+552	187	93	Ecologia Molecular - 5352696a9ca3397beb79f116f3a33991
+553	299	154	Introdução À Física - 536a76f94cf7535158f66cfbd4b113b6
+554	107	53	Imunologia Clínica - 536ea627ea9736695a47b5c4abc73d82
+555	300	130	Biofísica I - 537d9b6c927223c796cac288cced29df
+556	201	130	Introdução À Instrumentação Biomédica - 53adaf494dc89ef7196d73636eb2451b
+557	187	93	Ecofisiologia Animal - 53b0755548667f124037e0d0f6ee2b8f
+558	301	157	Espécies Ameaçadas - 53bb7c5ac2cd41998901cea5c1f95e58
+560	302	74	Requisitos De Software - 53c6de78244e9f528eb3e1cda69699bb
+561	79	155	Estágio Iii - 53e3a7161e428b65688f14b84d61c610
+562	47	18	Organização Do Trabalho Científico - 53ed35c74a2ec275b837374f04396c03
+563	303	18	Geografia Da População I - 53f0d7c537d99b3824f0f99d62ea2428
+564	63	179	Tópicos De Políticas Públicas I - 54072f485cdb7897ebbcaf7525139561
+565	13	43	Leitura E Produção Textual - 540ae6b0f6ac6e155062f3dd4f0b2b01
+566	160	167	Saúde, Família E Comunidade Iii - 543329132612717b1f2518ee85481e3f
+567	79	155	Introdução À Física Quântica - 5487315b1286f907165907aa8fc96619
+569	240	74	Qualidade De Software - 54f9eac9f51cdaebfbd1455702d36c33
+570	156	40	Logística Empresarial - 5531a5834816222280f20d1ef9e95f69
+571	306	76	Projeto De Instalações Químicas - 555d6702c950ecb729a966504af0a635
+572	79	155	Estágio Iii - 556f391937dfd4398cbac35e050a2177
+573	51	110	Segurança Da Informação E Proteção Do Conhecimento - 559cb990c9dffd8675f6bc2186971dc2
+574	203	77	Trabalho De Conclusão De Curso Ii - 55a988dfb00a914717b3000a3374694c
+575	28	88	Saúde Coletiva I - 55b7d07df3fe0af45cf01dff0f8a8d29
+580	133	5	Leitura E Produção De Texto I - 56468d5607a5aaf1604ff5e15593b003
+582	37	178	Fundam. Filos. E Sócio-Hist Da Educação - 5705e1164a8394aace6018e27d20d237
+584	310	43	Trabalho De Conclusão De Curso Ii - 571e0f7e2d992e738adff8b1bd43a521
+585	235	137	Mét. E Téc. De Pesq. Em Ciências Soc. E Rel. Int. - 5737c6ec2e0716f3d8a7a5c4e0de0d9a
+586	144	152	Teoria Do Conhecimento - 57948aa0976f6ca8aa433f11f3412459
+588	42	19	Fundamentos De Matemática - 5807a685d1a9ab3b599035bc566ce2b9
+589	311	12	Educação Para Relações Étnicas Raciais E Para Os Direitos Humanos - 58c54802a9fb9526cd0923353a34a7ae
+591	313	60	Cálculo 2a - 58e4d44e550d0f7ee0a23d6b02d9b0db
+593	210	157	Bioestatística - 59e0b2658e9f2e77f8d4d83f8d07ca84
+595	103	95	Trabalho De Conclusão De Curso I - 5a7f963e5e0504740c3a6b10bb6d4fa5
+596	314	79	Computação E Sociedade - 5b4588686ba406ea9def239c39ae66d1
+597	235	137	Teoria Das Relações Internacionais Ii - 5b8add2a5d98b1a652ea7fd72d942dac
+599	241	80	Imunologia Básica - 5ba2046ae8cdae3b7d0eee93be6abe28
+600	80	103	Virologia Em Saúde - 5c04925674920eb58467fb52ce4ef728
+601	113	177	Ecologia Básica - 5c50b4df4b176845cd235b6a510c6903
+602	316	91	Políticas Educacionais - 5c572eca050594c7bc3c36e7e8ab9550
+603	153	87	Cálculo 3b - 5c936263f3428a40227908d5a3847c0b
+606	12	156	Biofísica - 5cf21ce30208cfffaa832c6e44bb567d
+607	144	152	Tópicos De Filosofia Iii - 5cf3180c7f77315652f52761707f7f74
+608	22	5	Fotografia - 5d616dd38211ebb5d6ec52986674b6e4
+609	109	41	Análise Das Demonstrações Contábeis - 5d79099fcdf499f12b79770834c0164a
+611	317	24	Biofísica - 5df07ecf4cea616e3eb384a9be3511bb
+613	28	88	Saúde Coletiva I - 5e5e2a670bc9a83d4f99536b2ce9f2f9
+614	239	74	Banco De Dados - 5e6bd7a6970cd4325e587f02667f7f73
+615	117	93	Métodos Em Ecologia - 5ec829debe54b19a5f78d9a65b900a39
+616	30	155	Políticas Educacionais No Brasil - 5f0f5e5f33945135b874349cfbed4fb9
+618	183	18	Didática De Geografia I - 5f6371c9126149517d9ba475def53139
+621	45	83	Planejamento E Controle De Obras - 60519c3dd22587d6de04d5f1e28bd41d
+622	320	18	Organização Do Trabalho Científico - 6150ccc6069bea6b5716254057a194ef
+623	198	13	Cálculo Diferencial - 619205da514e83f869515c782a328d3c
+625	156	40	Teoria Das Organizações - 61b1fb3f59e28c67f3925f3c79be81a1
+627	322	145	Estágio Supervisionado I - 621461af90cadfdaf0e8d4cc25129f91
+628	131	12	Mercado De Derivativos I - 62889e73828c756c961c5a6d6c01a463
+629	230	103	Biotecnologia Aplicada À Parasitologia - 628b803b45f2707575561e71ae66874c
+630	323	105	Salvaguarda Patrim. Ii - Cons Prev Segurança - 632cee946db83e7a52ce5e8d6f0fed35
+631	324	81	Economia Ambiental - 635440afdfc39fe37995fed127d7df4f
+632	325	40	Cálculo 2b - 6395ebd0f4b478145ecfbaf939454fa4
+633	74	74	Engenharia De Sistemas - 6403675579f6114559c90de0014cd3d6
+634	129	103	Cálculo 1c - 64223ccf70bbb65a3a4aceac37e21016
+636	132	157	Tópicos Em Biologia - 645098b086d2f9e1e0e939c27f9f2d6f
+637	326	167	Atenção Integral À Saúde Da Mulher E Da Criança I - 647c722bf90a49140184672e0d3723e3
+638	327	164	Estágio Supervisionado Iii - 6490791e7abf6b29a381288cc23a8223
+639	328	60	Segurança E Auditoria De Sistemas - 6492d38d732122c58b44e3fdc3e9e9f3
+640	326	167	Atenção Integral À Saúde Da Mulher E Da Criança I - 64f1f27bf1b4ec22924fd0acb550c235
+642	139	166	Anatomia Vegetal - 650212966d571dc26133081329e9a147
+645	1	81	Metodologia Da Pesquisa - 654ad60ebd1ae29cedc37da04b6b0672
+646	330	76	Introdução À Engenharia Química - 65b9eea6e1cc6bb9f0cd2a47751a186f
+647	57	5	Ética E Legislação Em Rp E Comunicação - 65cc2c8205a05d7379fa3a6386f710e1
+648	107	53	Imunologia Clínica - 65fc52ed8f88c81323a418ca94cec2ed
+649	299	154	Geometria Analítica - 6602294be910b1e3c4571bd98c4d5484
+650	27	157	Sistemática De Criptógamos - 6639a34d592b30f9a19412241dba5de6
+651	90	156	Ciência De Animais De Laboratório - 66be31e4c40d676991f2405aaecc6934
+652	214	37	Geologia I - 66e8ba8216a1e152d72653d99a4f03ab
+653	331	41	Direito Trabalhista E Previdenciário - 66f041e16a60928b05a7e228a89c3799
+655	131	12	Finanças I - 673271cc47c1a4e77f57e239ed4d28a7
+657	332	105	Comunicação Patrimonial Ii - Expografia - 677e09724f0e2df9b6c000b75b5da10d
+659	222	146	Políticas Educacionais No Brasil - 67d96d458abdef21792e6d8e590244e7
+660	224	18	Psicologia Da Educação I - 68053af2923e00204c3ca7c6a3150cf7
+661	96	103	Introdução A Microbiologia Ambiental - 68264bdb65b97eeae6788aa3348e553c
+662	34	12	Economia Brasileira Ii - 6832a7b24bc06775d02b7406880b93fc
+664	333	133	Metodologia Científica E Redação Técnica - 68c694de94e6c110f42e587e8e48d852
+665	134	137	Introdução Ao Direito - 68ce199ec2c5517597ce0a4d89620f55
+668	115	77	Inferência I - 696b35cc35e710279b9c2dedc08e22d7
+669	283	158	Ecologia De Populações - 697e382cfd25b07a3e62275d3ee132b3
+670	274	156	Bioquímica Clínica - 699b1436c91337ac5e493590089e178e
+671	279	43	Teorias E Métodos De Pesquisa Em Comunicação - 69a5b5995110b36a9a347898d97a610e
+675	338	167	Método Clínico I - 6a508a60aa3bf9510ea6acb021c94b48
+676	339	86	Filosofia - 6a5889bb0190d0211a991f47bb19a777
+678	109	41	Controladoria - 6a81681a7af700c6385d36577ebec359
+679	340	40	Estatística Inferencial - 6aab1270668d8cac7cef2566a1c5f569
+680	176	79	Redes De Computadores - 6aabeaad646177db8e648c94b656d6c8
+681	273	161	Bioquímica Ii - 6aed000af86a084f9cb0264161e29dd3
+683	207	5	Teoria Da Imagem - 6b180037abbebea991d8b1232f8a8ca9
+684	341	35	Geopolítica E Geografia Política Ii - 6b5754d737784b51ec5075c0dc437bf0
+685	51	110	Superhero Comic Books In Contemporary Society - 6b8eba43551742214453411664a0dcc8
+686	230	103	Genética - 6ba3af5d7b2790e73f0de32e5c8c1798
+687	202	19	Fundamentos Filosóficos E Sócio-Culturais Da Educação - 6bc24fc1ab650b25b4114e93a98f1eba
+688	303	18	Cartografia I - 6be93f7a96fed60c477d30ae1de032fd
+690	343	119	Lab. De Linguagens E Representações Culturais - 6c1da886822c67822bcf3679d04369fa
+692	21	13	Geometria Plana - 6c97cd07663b099253bc569fe8d342bb
+693	51	110	Mídias Sociais - 6c9882bbac1c7093bd25041881277658
+694	208	91	Fundamentos Filosófico E Sócio-Histór. Da Educação - 6cd67d9b6f0150c77bda2eda01ae484c
+695	345	41	Estatística - 6cfe0e6127fa25df2a0ef2ae1067d915
+697	300	130	Dosimetria - 6d70cb65d15211726dcce4c0e971e21c
+700	346	24	Imunologia - 6db49a0f96bf338250d7827c6a78bd0f
+701	181	103	Fisiologia Humana - 6dd4e10e3296fa63738371ec0d5df818
+702	144	152	Teoria Do Conhecimento - 6e1010e782c1f01dbba92572d6ad44c3
+703	168	158	Taxonomia E Ecologia De Fungos - 6e5025ccc7d638ae4e724da8938450a6
+705	514	170	Sistemas De Controle - 6e814a39a2efd54f1d4ac0da35d84c0d
+707	348	77	Modelos De Regressão - 6ef80bb237adf4b6f77d0700e1255907
+708	292	19	Estágio Supervisionado Iii - 6f2268bd1d3d3ebaabb04d6b5d099425
+709	103	95	Gestão De Ti Em Unidades De Informação - 6f2688a5fce7d48c8d19762b88c32c3b
+711	227	137	Cooperação Internacional - 6faa8040da20ef399b63a72d0e4ab575
+712	101	79	Projetos De Software - 6ff09a6e7473e4a3028a95384ab7f84e
+713	55	142	Gestão E Organização Do Trabalho Pedagógico - 70222949cc0db89ab32c9969754d4758
+715	111	79	Engenharia De Sistemas De Informação - 70c445ee64b1ed0583367a12a79a9ef2
+716	137	88	Saúde Mental I - 70ece1e1e0931919438fcfc6bd5f199c
+717	68	88	Processo De Cuidar Em Saúde Da Criança E Do Adolescente Ii - 70fcb77e6349f4467edd7227baa73222
+718	349	119	Métodos Quantitativos - 70feb62b69f16e0238f741fab228fec2
+720	292	19	Políticas Educacionais No Brasil - 7143d7fbadfa4693b9eec507d9d37443
+721	350	91	Introdução À Língua Brasileira De Sinais - Libras - 71560ce98c8250ce57a6a970c9991a5f
+724	206	41	Contabilidade Avançada 1 - 71a58e8cb75904f24cde464161c3e766
+725	168	158	Entomologia - 71c391042f41a3ba3799e0c14ec3d3be
+726	236	156	Micologia Humana - 71db49aba03f9fbb0ed51db433c57179
+727	351	60	Linguagens E Paradigmas De Programação - 71e09b16e21f7b6919bbfc43f6a5b2f0
+730	141	161	Fisiologia Humana - 7283518d47a05a09d33779a17adf1707
+731	156	40	Pesquisa Em Administração - 728f206c2a01bf572b5940d7d9a8fa4c
+733	168	158	Genética Da Conservação - 72a901bf854346b58098c579c3d30c8e
+734	163	161	Psicologia Aplicada À Nutrição - 72da7fd6d1302c0a159f6436d01e9eb0
+736	153	87	Química Dos Elementos - 73278a4a86960eeb576a8fd4c9ec6997
+737	33	95	Fontes De Informação - 73e0f7487b8e5297182c5a711d20bf26
+738	353	74	Algoritmos E Estruturas De Dados 1 - 73f490f3f868edbcd80b5d3f7cedc403
+739	137	88	Saúde Mental I - 74023e0f42a9ff68a43187c0652a1e7a
+740	354	37	Fundamentos De Astronomia - 743394beff4b1282ba735e5e3723ed74
+741	215	166	Física Ii - 7437d136770f5b35194cb46c1653efaa
+742	221	53	Química Orgânica Ii - 743c41a921516b04afde48bb48e28ce6
+743	131	12	Monografia I - 74563ba21a90da13dacf2a73e3ddefa7
+745	355	87	Química Do Petróleo - 74934548253bcab8490ebd74afed7031
+746	208	91	Cálculo 1b - 74bba22728b6185eec06286af6bec36d
+748	137	88	Saúde Mental I - 752d25a1f8dbfb2d656bac3094bfb81c
+750	109	41	Contabilidade Avançada 1 - 757f843a169cc678064d9530d12a1881
+751	134	137	Teoria Política I - 758874998f5bd0c393da094e1967a72b
+753	113	177	Microbiologia Veterinária - 7617097ce9ccd87578a798cee4ab8e8a
+754	268	37	Teoria E Método Em Geografia - 761c7920f470038d4c8a619c79eddd62
+755	133	5	Fundamentos De Administração - 766d856ef1a6b02f93d894415e6bfa0e
+756	241	80	Parasitologia Zootécnica - 771ca70a4a869e29ef0d5cdde413fb3e
+757	68	88	Processo De Cuidar Em Saúde Da Criança E Do Adolescente Ii - 777669af68dbccabc30c3b6bcaa81825
+758	236	156	Bacteriologia Humana - 777f5c30d1406c8584c7d64b99f472f9
+760	113	177	Parasitologia Veterinária - 77caa0b35fc4e46bafb72d96c2ef87ae
+762	107	53	Virologia Humana - 781a1e66db5890d20f2a2bb7b3f9c3aa
+763	236	156	Patologia Geral - 78237cc606d55b275bf8ca2adb4659e9
+764	358	77	Trabalho De Conclusão De Curso I - 7827d1ec626c891d4b61a15c9dff296e
+765	359	53	Química Geral - 7876acb66640bad41f1e1371ef30c180
+766	348	77	Cálculo Numérico - 7884a9652e94555c70f96b6be63be216
+767	360	77	Redação E Expressão I - 7895fc13088ee37f511913bac71fa66f
+768	144	152	Filosofia Moderna - 78d919275d2824fbc0cfe71d785aa2bc
+769	361	119	Métodos Qualitativos - 792c7b5aae4a79e78aaeda80516ae2ac
+771	282	179	Antropologia Urbana - 7949e456002b28988d38185bd30e77fd
+772	244	72	Desenho I - 7989edad14ebcd3adfacc7344dc6b739
+773	156	40	Saúde Do Trabalhador - 798cebccb32617ad94123450fd137104
+774	362	86	Sociologia I - 79a49b3e3762632813f9e35f4ba53d6c
+775	136	158	Fundamentos Filosóficos E Sócio-Históricos Da Educação - 7a53928fa4dd31e82c6ef826f341daec
+776	63	179	Tópicos De Sociologia I - 7a674153c63cff1ad7f0e261c369ab2c
+777	363	157	Genética: Passado, Presente E Futuro - 7a68443f5c80d181c42967cd71612af1
+779	197	167	Método Clínico Iii - 7af6266cc52234b5aa339b16695f7fc4
+780	364	35	Geografia De Goiás - 7b1ce3d73b70f1a7246e7b76a35fb552
+781	198	13	Cálculo Integral - 7b4773c039d539af17c883eb9283dd14
+782	63	179	Tópicos De Antropologia I - 7b5b23f4aadf9513306bcd59afb6e4c9
+783	97	19	Introdução À Teoria Dos Números - 7b66b4fd401a271a1c7224027ce111bc
+784	156	40	Tópicos Especiais Em Administração Pública - 7b7a53e239400a13bd6be6c91c4f6c4e
+787	366	41	Contabilidade Introdutória I - 7c4ede33a62160a19586f6e26eaefacf
+788	208	91	Psicologia Da Educação 1 - 7c590f01490190db0ed02a5070e20f01
+789	310	43	Trabalho De Conclusão De Curso I - 7c9d0b1f96aebd7b5eca8c3edaa19ebb
+790	60	92	Algoritmos E Programação De Computadores - 7cac11e2f46ed46c339ec3d569853759
+791	55	142	Libras - 7cc234202e98d2722580858573fd0817
+792	367	166	Genética - 7cc532d783a7461f227a5da8ea80bfe1
+793	368	12	Introdução Às Ciências Sociais - 7cce53cf90577442771720a370c3c723
+794	17	178	Ciência Política 3 - 7ce3284b743aefde80ffd9aec500e085
+795	156	40	Administração Da Produção E Operações - 7d2b92b6726c241134dae6cd3fb8c182
+797	369	20	Estágio Supervisionado Ii - 7d771e0e8f3633ab54856925ecdefc5d
+798	370	87	Processos Da Indústria Química - 7d81d13d998925214e33ff8b2e3807b7
+799	132	157	Tópicos Em Biologia I - 7dc1c7653ac42a05642a667959c12239
+801	371	79	Segurança Em Sistemas De Informação - 7e05d6f828574fbc975a896b25bb011e
+802	68	88	Grupos Em Saúde - 7e230522657ecdc50e4249581b861f8e
+803	198	13	Fundamentos De Matemática - 7e3b7a5bafcb0fa8e8dfe3ea6aca9186
+805	99	155	Química Geral B - 7e83722522e8aeb7512b7075311316b7
+806	36	60	Sistemas Gerenciadores De Banco De Dados - 7e85260ddc6572af584224c3c54354b2
+808	150	95	Editoração E Planejamento Gráfico Visual - 7e9e346dc5fd268b49bf418523af8679
+809	372	73	Biologia E Zoologia - 7ea3fbf6743ddc3f7b151465a7a4a83e
+810	330	76	Física 1 - 7eb7eabbe9bd03c2fc99881d04da9cbd
+811	73	182	Ciência Política 1 - 7edccc661418aeb5761dbcdc06ad490c
+812	5	76	Projetos De Reatores Químicos - 7f1de29e6da19d22b51c68001e7e0e54
+813	88	41	Instituições Do Direito Público E Privado - 7f39f8317fbdb1988ef4c628eba02591
+814	56	155	Física I - 7f5d04d189dfb634e6a85bb9d9adf21e
+815	153	87	Química Dos Elementos - 7f6ffaa6bb0b408017b62254211691b5
+816	207	5	Introdução Às Relações Públicas - 7f975a56c761db6506eca0b37ce6ec87
+819	109	41	Contabilidade E Gestão Do Agronegócio - 7fea637fd6d02b8f0adf6f7dc36aed93
+820	325	40	Sociologia Das Organizações - 7fec306d1e665bc9c748b5d2b99a6e97
+822	351	60	Engenharia De Software - 8038da89e49ac5eabb489cfc6cea9fc1
+823	93	18	Geografia Agrária I - 80537a945c7aaa788ccfcdf1b99b5d8f
+824	94	154	Equações Diferenciais Ordinárias - 8065d07da4a77621450aa84fee5656d9
+825	206	41	Controladoria - 806beafe154032a5b818e97b4420ad98
+826	165	158	Paleobiologia - 814a9c18f5abff398787c9cfcbf3d80c
+827	194	8	Química Analítica - 8169e05e2a0debcb15458f2cc1eff0ea
+830	168	158	Taxonomia E Ecologia De Fungos - 819e3d6c1381eac87c17617e5165f38c
+831	51	110	Banco De Dados - 819f46e52c25763a55cc642422644317
+832	173	36	Fundamentos De Astronomia - 81b073de9370ea873f548e31b8adc081
+833	314	79	Introdução À Programação - 81b3833e2504647f9d794f7d7b9bf341
+834	26	156	Biossegurança - 81c650caac28cdefce4de5ddc18befa0
+836	373	120	Laboratório De Prática De Ensino Ii - 81ca0262c82e712e50c580c032d99b60
+840	227	137	Tópicos De História Das Relações Internacionais - 821fa74b50ba3f7cba1e6c53e8fa6845
+841	364	35	Teoria De Planejamento Geográfico - 8232e119d8f59aa83050a741631803a6
+842	375	158	Psicologia Da Educação Ii - 82489c9737cc245530c7a6ebef3753ec
+843	310	43	Planejamento De Campanha - 8248a99e81e752cb9b41da3fc43fbe7f
+845	57	5	Gestão Estratégica - 82b8a3434904411a9fdc43ca87cee70c
+846	137	88	Patologia Humana - 82c2559140b95ccda9c6ca4a8b981f1e
+847	203	77	Estágio Ii - 82ca5dd156cc926b2992f73c2896f761
+848	259	12	Contabilidade Social - 8303a79b1e19a194f1875981be5bdb6f
+849	326	167	Atenção Integral À Saúde Da Mulher E Da Criança I - 831c2f88a604a07ca94314b56a4921b8
+850	215	166	Química Analítica Teórica - 831caa1b600f852b7844499430ecac17
+851	115	77	Probabilidade Ii - 83691715fdc5baf20ed0742b0b85785b
+853	377	120	Antropologia V - 83adc9225e4deb67d7ce42d58fe5157c
+854	378	60	Tópicos Avançados Em Programação Iv - 83b1e9da50372840c624237cc68ddacf
+855	107	53	Parasitologia Clínica - 83c65b9fb801682f515a041826d306bb
+856	157	154	Eletromagnetismo I - 83cdcec08fbf90370fcf53bdd56604ff
+857	154	76	Bioquímica - 83e8ef518174e1eb6be4a0778d050c9d
+859	379	20	Estágio Supervisionado Ii - 83f97f4825290be4cb794ec6a234595f
+860	107	53	Micologia Aplicada - 841ac6d68d8d97ea566bd8883a38c97f
+861	51	110	Metodologia Da Pesquisa Científica - 846c260d715e5b854ffad5f70a516c88
+862	380	76	Introdução À Computação - 847cc55b7032108eee6dd897f3bca8a5
+863	381	166	Química Geral - 84b20b1f5a0d103f5710bb67a043cd78
+864	137	88	Saúde Mental I - 84c6494d30851c63a55cdb8cb047fadd
+865	252	5	Tópicos Contemporâneos: Gestão De Eventos - 84d2004bf28a2095230e8e14993d398d
+866	137	88	Parasitologia Humana - 84f0f20482cde7e5eacaf7364a643d33
+869	191	161	Plantas Medicinais E Fitoterápicos - 852c44ddce7e0c7e4c64d86147300831
+871	89	30	Núcleos Temáticos De Pesquisa Em Educação Física - 856fc81623da2150ba2210ba1b51d241
+872	382	79	Matemática Discreta - 8593b9e56d20954c47097abbcbdfc503
+873	220	43	Teorias Da Comunicação I - 8597a6cfa74defcbde3047c891d78f90
+874	156	40	Finanças De Curto Prazo - 85f007f8c50dd25f5a45fca73cad64bd
+877	144	152	Filosofia Da Linguagem - 8616b6a8c9afbfc41ebc1df86e287759
+879	383	7	Fisiologia Humana - 8698ff92115213ab187d31d4ee5da8ea
+880	292	19	Estágio Supervisionado Iii - 86b122d4358357d834a87ce618a55de0
+881	65	167	Saúde Do Adulto E Do Idoso - Psiquiatria/Medicina Legal E Saúde Mental Coletiva - 86d7c8a08b4aaa1bc7c599473f5dddda
+883	168	158	Biologia Evolutiva - 86e78499eeb33fb9cac16b7555b50767
+885	372	73	Química Geral - 86ecfcbc1e9f1ae5ee2d71910877da36
+886	202	19	Didática Da Matemática Iii - 872488f88d1b2db54d55bc8bba2fad1b
+887	384	156	Ética Em Pesquisa - 8725fb777f25776ffa9076e44fcfd776
+888	232	54	Tópicos Especiais Em Psicopatologia - 87682805257e619d49b8e0dfdc14affa
+889	274	156	Patologia Geral - 878cb17581a597304a1b825b4bf375fa
+891	88	41	Matemática Financeira Aplicada A Contabilidade - 87ec2f451208df97228105657edb717f
+892	302	74	Governança E Gestão De Serviços De Software - 880610aa9f9de9ea7c545169c716f477
+893	385	5	Mídias Institucionais - 883e881bb4d22a7add958f2d6b052c9f
+896	242	166	Bioquímica De Biomoléculas - 88a199611ac2b85bd3f76e8ee7e55650
+897	42	19	Linguagem E Matemática - 88ae6372cfdc5df69a976e893f4d554b
+898	71	81	Tópicos Em Sensoriamento Remoto - 8901c584a81808ee0f7b13dd8f212fe2
+900	63	179	Trabalho Final De Curso 1 - 892c91e0a653ba19df81a90f89d99bcd
+901	195	103	Bioprocessos - 894b77f805bd94d292574c38c5d628d5
+902	35	93	Bioindicadores - 89885ff2c83a10305ee08bd507c1049c
+905	387	155	Evolução Das Ideias Da Física - 8a0e1141fd37fa5b98d5bb769ba1a7cc
+908	388	168	Desenho Ii - 8a20a8621978632d76c43dfd28b67767
+909	282	179	Estatística Aplicada Às Ciências Sociais 2 - 8a3363abe792db2d8761d6403605aeb7
+913	389	4	Teoria E Métodos De Pesquisa Em Comunicação - 8b4066554730ddfaa0266346bdc1b202
+915	138	12	Álgebra Linear - 8b5040a8a5baf3e0e67386c2e3a9b903
+916	90	156	Tópicos Em Fisiologia - 8b5700012be65c9da25f49408d959ca0
+918	107	53	Parasitologia - 8bec98830ca9b0bdc6995259aae51bf5
+920	391	60	Compiladores - 8c01a75941549a705cf7275e41b21f0d
+923	5	76	Introdução Aos Métodos Instrumentais De Análise - 8c5f6ecd29a0eb234459190ca51c16dd
+924	202	19	Prática De Ensino Orientada - 8c6744c9d42ec2cb9e8885b54ff744d0
+925	197	167	Método Clínico Iii - 8c8a58fa97c205ff222de3685497742c
+926	25	78	Noções Básicas Em Língua Bras. De Sinais (Libras) - 8ca8da41fe1ebc8d3ca31dc14f5fc56c
+928	171	179	Métodos E Técnicas De Pesquisa Social 2 - 8ce6790cc6a94e65f17f908f462fae85
+929	381	166	Química Orgânica - 8d09e4b85c783cbc30c9b8ae175f2d33
+930	392	86	Ciência Política I - 8d3369c4c086f236fabf61d614a32818
+931	215	166	Física I - 8d420fa35754d1f1c19969c88780314d
+933	381	166	Cálculo 1b - 8d6dc35e506fc23349dd10ee68dabb64
+934	394	120	Sociologia V - 8d9a0adb7c204239c9635426f35c9522
+935	348	77	Processos Estocásticos - 8db9264228dc48fbf47535e888c02ae0
+936	395	74	Desenvolvimento De Software Para Persistência - 8dc5983b8c4ef1d8fcd5f325f9a65511
+937	317	24	Biofísica - 8e68c3c7bf14ad0bcaba52babfa470bd
+938	396	105	Tópicos De Museologia Ii - 8e82ab7243b7c66d768f1b8ce1c967eb
+939	50	103	Genômica E Proteômica - 8f19793b2671094e63a15ab883d50137
+941	397	41	Estatística - 8f468c873a32bb0619eaeb2050ba45d1
+944	229	83	Cultura, Cidade E Arquitetura - 8fb5f8be2aa9d6c64a04e3ab9f63feee
+945	83	60	Fundamentos De Matemática Para Computação - 8fecb20817b3847419bb3de39a609afe
+946	355	87	Química Ambiental - 903ce9225fca3e988c2af215d4e544d3
+947	398	157	Metodologia Científica E Filosofia Da Ciência - 90599c8fdd2f6e7a03ad173e2f535751
+948	41	40	Cálculo 1b - 90794e3b050f815354e3e29e977a88ab
+951	292	19	Estatística - 912d2b1c7b2826caf99687388d2e8f7c
+952	346	24	Microbiologia - 9136ed056ee4f8a93e27116c6599b87e
+953	151	75	Desenho Técnico Mecânico - 9185f3ec501c674c7c788464a36e7fb3
+954	267	166	Cálculo 1b - 92262bf907af914b95a0fc33c3f33bf6
+955	399	12	Cálculo 2b - 9232fe81225bcaef853ae32870a2b0fe
+956	221	53	Química Analítica - 92426b262d11b0ade77387cf8416e153
+957	94	154	Probabilidade E Estatística - 92977ae4d2ba21425a59afb269c2a14e
+958	400	133	Química Orgânica - 92a0e7a415d64ebafcb16a8ca817cde4
+960	401	13	Equações Diferenciais Ordinárias I - 92cd1b66a01498c7a62b2ee99b810d39
+961	74	74	Modelagem De Software - 92f54963fc39a9d87c2253186808ea61
+962	167	142	Introd. Às Ciências Da Natureza E Educaç. Do Campo - 92fb0c6d1758261f10d052e6e2c1123c
+963	31	35	Tópicos Em Geologia - 931af583573227f0220bc568c65ce104
+964	206	41	Contabilidade E Gestão Do Agronegócio - 9327969053c0068dd9e07c529866b94d
+966	82	93	Plantas Criptogâmicas - 9357fad168e79256e1abaac4e835910f
+967	82	93	Introdução À Bioestatística - 936a40b7e8eea0dc537e5f2edee1387a
+968	57	5	Produção De Texto Jornalístico I - 93d65641ff3f1586614cf2c1ad240b6c
+969	81	77	Controle Estatístico De Qualidade - 9407c826d8e3c07ad37cb2d13d1cb641
+970	137	88	Parasitologia Humana - 9415212e60be1cca7e30da219ea59288
+971	107	53	Imunologia Básica - 944626adf9e3b76a3919b50dc0b080a4
+972	188	142	Estágio De Docência Em Ciências Da Natureza No Ensino Fundamental Ou Eja I - 944bdd9636749a0801c39b6e449dbedc
+976	135	167	Saúde Do Adulto E Do Idoso - Sistema Locomotor, Cirurgia Plástica E Geriatria/Cuidados Paliativos - 95151403b0db4f75bfd8da0b393af853
+977	82	93	Estudo Da Ecologia - 95192c98732387165bf8e396c0f2dad2
+978	36	60	Redes De Computadores 1 - 955cb567b6e38f4c6b3f28cc857fc38c
+979	277	133	Introdução À Física - 958adb57686c2fdec5796398de5f317a
+980	402	7	Bioquímica I - 9597353e41e6957b5e7aa79214fcb256
+981	42	19	Geometria Plana - 959a557f5f6beb411fd954f3f34b21c3
+982	337	92	Estruturas De Dados - 959ef477884b6ac2241b19ee4fb776ae
+984	320	18	Geografia E Sociedade - 95f8d9901ca8878e291552f001f67692
+985	156	40	Elaboração Do Projeto De Tcc (Tcc I) - 96055f5b06bf9381ac43879351642cf5
+986	206	41	Contabilidade Tributária - 962e56a8a0b0420d87272a682bfd1e53
+987	82	93	Plantas Criptogâmicas - 9657c1fffd38824e5ab0472e022e577e
+988	334	37	Geografia Urbana - 96671501524948bc3937b4b30d0e57b9
+989	403	120	Estágio Supervisionado I - 9683cc5f89562ea48e72bb321d9f03fb
+991	9	60	Algoritmos E Estruturas De Dados 2 - 96de2547f44254c97f5f4f1f402711c1
+992	56	155	Psicologia Da Educação Ii - 96ea64f3a1aa2fd00c72faacf0cb8ac9
+995	242	166	Física Ii - 973a5f0ccbc4ee3524ccf035d35b284b
+996	405	51	Psicologia Das Organizações - 97416ac0f58056947e2eb5d5d253d4f2
+997	186	157	Zoologia I - 97706caf74b5a0bf3dc2002b1c90106d
+998	16	66	Resistência Dos Materiais 2 - 978d76676f5e7918f81d28e7d092ca0d
+999	333	133	Circuitos Elétricos 1 - 978fce5bcc4eccc88ad48ce3914124a2
+1001	144	152	Tópicos De Ética - 97c52e4056cb7be4c22971381e427e01
+1002	267	166	Biologia E Zoologia - 97d0145823aeb8ed80617be62e08bdcc
+1003	28	88	Saúde Coletiva I - 97dfbef8d4837f2ca67954513e11f482
+1004	406	86	Antropologia I - 980ecd059122ce2e50136bda65c25e07
+1005	81	77	Estágio I - 9824f9c1543628a85bb51d2dd6fcf8a3
+1008	407	179	Trabalho Final De Curso 1 - 98b418276d571e623651fc1d471c7811
+1009	183	18	Geografia De Goiás - 98e6f17209029f4ae6dc9d88ec8eac2c
+1012	409	5	Mídias Audiovisuais - 995e1fda4a2b5f55ef0df50868bf2a8f
+1013	410	60	Tópicos 1 - 9978b7063e297d84bb2ac8e46c1c845f
+1014	239	74	Algoritmos E Estruturas De Dados 2 - 999600eb275cc7196161261972daa59b
+1015	68	88	Processo De Cuidar Em Saúde Da Criança E Do Adolescente Ii - 999739a3a86d189c4d207f14dbdba405
+1017	387	155	Informática No Ensino Da Física Ii - 99bcfcd754a98ce89cb86f73acc04645
+1020	156	40	Contabilidade Gerencial - 9a1de01f893e0d2551ecbb7ce4dc963e
+1027	263	77	Introdução A Probabilidade - 9af76329c78e28c977ab1bcd1c3fe9b8
+1028	154	76	Termodinâmica Aplicada Ii - 9b8619251a19057cff70779273e95aa6
+1029	412	78	Estágio Em Educ. Inf. E Anos Ini. Do Ens. Fund Iii - 9bb6dee73b8b0ca97466ccb24fff3139
+1030	88	41	Fundamentos Da Microeconomia - 9c19a2aa1d84e04b0bd4bc888792bd1e
+1032	36	60	Banco De Dados - 9d2682367c3935defcb1f9e247a97c0d
+1033	413	169	Química Geral B - 9d28de8ff9bb6a3fa41fddfdc28f3bc1
+1034	82	93	Evolução E Diversificação Das Plantas - 9de12d76dc783e12990c314eb1a3f6fc
+1035	57	5	Psicologia Organizacional - 9e3cfc48eccf81a0d57663e129aef3cb
+1036	88	41	Introdução À Teoria Da Contabilidade - 9e984c108157cea74c894b5cf34efc44
+1038	96	103	Biossegurança - 9f15ce8f74c82748b20c64ba40da5b7c
+1040	415	153	Psiquiatria Clínica E Psicopatologia 1 - 9f44e956e3a2b7b5598c625fcc802c36
+1041	277	133	Cálculo 1a - 9f53d83ec0691550f7d2507d57f4f5a2
+1043	5	76	Operações Unitárias 3 - 9fc3d7152ba9336a670e36d0ed79bc43
+1044	12	156	Introdução Às Análises Clínicas - 9fe97fff97f089661135d0487843108e
+1045	107	53	Parasitologia - a00e5eb0973d24649a4a920fc53d9564
+1048	149	35	Organização Do Trabalho Científico - a03fa30821986dff10fc66647c84c9c3
+1049	160	167	Determinantes Biológicos No Processo Saúde - Doença I - a071d3da930a9b714383b89e421e0439
+1050	371	79	Empreendedorismo - a07c2f3b3b907aaf8436a26c6d77f0a2
+1051	417	40	Filosofia E Ética Na Administração - a0833c8a1817526ac555f8d67727caf6
+1052	51	110	Introdução À Ciência Da Informação - a0a080f42e6f13b3a2df133f073095dd
+1053	418	4	História Do Jornalismo - a0e2a2c563d57df27213ede1ac4ac780
+1054	269	167	Saúde Do Adulto E Do Idoso - Psiquiatria/Medicina Legal E Saúde Mental Coletiva - a0f3601dc682036423013a5d965db9aa
+1057	268	37	Geomorfologia I - a11f9e533f28593768ebf87075ab34f2
+1058	420	130	Biologia Celular - a13f60ff56936e206f4d0e378cb01178
+1060	277	133	Física E Meio Ambiente - a19acd7d2689207f9047f8cb01357370
+1062	292	19	História Da Matemática - a1d33d0dfec820b41b54430b50e96b5c
+1063	282	179	Gestão Pública Contemporânea - a1d50185e7426cbb0acad1e6ca74b9aa
+1064	149	35	Geografia Da População I - a1d7311f2a312426d710e1c617fcbc8c
+1065	144	152	Ética - a1f2bb8f062f43fbe2bc4bfd0b66a055
+1067	421	86	História I - a223c6b3710f85df22e9377d6c4f7553
+1068	389	4	História Do Cinema - a26398dca6f47b49876cbaffbc9954f9
+1070	422	7	Bioquímica I - a2cc63e065705fe938a4dda49092966f
+1071	409	5	Tópicos Contemporâneos: Comunicação Organizacional - a34bacf839b923770b2c360eefa26748
+1072	109	41	Contabilidade Intermediária 1 - a368b0de8b91cfb3f91892fbf1ebd4b2
+1073	47	18	Cartografia I - a376033f78e144f494bfc743c0be3330
+1074	165	158	Biologia Molecular - a381c2c35c9157f6b67fd07d5a200ae1
+1075	338	167	Método Clínico I - a38b16173474ba8b1a95bcbc30d3b8a5
+1076	163	161	Patologia Geral - a3a8b60750b1e56b2f28433770093977
+1077	423	170	Desenho Básico - a3d06db1f8c85b2837b4603a51834425
+1078	56	155	Cálculo 2a - a3d68b461bd9d3533ee1dd3ce4628ed4
+1080	177	87	Química Analítica Qualitativa - a3f390d88e4c41f2747bfa2f1b5f87db
+1086	302	74	Arquitetura De Software - a431d70133ef6cf688bc4f6093922b48
+1087	82	93	Evolução E Diversificação Das Plantas - a48564053b3c7b54800246348c7fa4a0
+1088	225	158	Zoologia Iii - Invertebrados Ii - a486cd07e4ac3d270571622f4f316ec5
+1090	425	103	Formei E Agora? Empregabilidade E Mundo Do Trabalho - a501bebf79d570651ff601788ea9d16d
+1092	68	88	Processo De Cuidar Em Saúde Da Criança E Do Adolescente Ii - a513da815860c4c1505e69d82ec39970
+1093	274	156	Bioinformática - a51c896c9cb81ecb5a199d51ac9fc3c5
+1095	131	12	Economia Internacional - a588a6199feff5ba48402883d9b72700
+1096	117	93	Ecofisiologia Vegetal - a591024321c5e2bdbd23ed35f0574dde
+1098	202	19	Fundamentos Filosóficos E Sócio-Culturais Da Educação - a5cdd4aa0048b187f7182f1b9ce7a6a7
+1100	426	179	Tópicos De Sociologia I - a60937eba57758ed45b6d3e91e8659f3
+1103	427	73	Introdução À Computação - a67f096809415ca1c9f112d96d27689b
+1104	107	53	Microbiologia Geral - a6a7b107d0ae6b856581a13003ce741c
+1105	428	166	Fisiologia Do Desenvolvimento Vegetal - a6c426fb38811b3187d2a0e4d524f8e0
+1106	81	77	Análise De Dados Categorizados - a6d259bfbfa2062843ef543e21d7ec8e
+1107	168	158	Taxonomia E Ecologia De Fungos - a6dbf4144a3cb82e0ec0e1f5cd1c2ada
+1109	268	37	Pedologia - a70dc40477bc2adceef4d2c90f47eb82
+1111	55	142	Divulgação Científica E Espaços Não Formais De Ensino - a7789ef88d599b8df86bbee632b2994d
+1112	144	152	Tópicos De Filosofia Ii - a79c1dfc754f00f2ba13f1a8115e789f
+1115	73	182	Introdução À Metodologia Científica - a8345c3bb9e3896ea538ce77ffaf2c20
+1118	73	182	Sociologia 1 - a8aa681aaa4588a8dbd3b42b26d59a1a
+1119	292	19	Políticas Educacionais No Brasil - a8e864d04c95572d1aece099af852d0a
+1120	370	87	Introdução Aos Fenômenos De Transporte - a8f15eda80c50adb0e71943adc8015cf
+1123	49	166	Fisiologia Do Metabolismo Vegetal - a91c69314d3212d19f06abf679b8dccc
+1124	132	157	Farmacologia Experimental - a9365bd906e11324065c35be476beb0c
+1125	274	156	Farmacologia I - a941493eeea57ede8214fd77d41806bc
+1126	225	158	Zoologia Iii - Invertebrados Ii - a96d3afec184766bfeca7a9f989fc7e7
+1127	430	60	Pesquisa Operacional - a9813e9550fee3110373c21fa012eee7
+1128	206	41	Auditoria Das Demonstrações Contábeis - a981f2b708044d6fb4a71a1463242520
+1130	431	120	Didática E Prática De Ensino Em Ciências Sociais Ii - a9be4c2a4041cadbf9d61ae16dd1389e
+1131	6	178	Estágio Supervisionado Iii:Escola E Diversidade - aa169b49b583a2b5af89203c2b78c67c
+1132	206	41	Tópicos Em Contabilidade I - aa2a77371374094fe9e0bc1de3f94ed9
+1136	195	103	Gestão E Empreendedorismo Em Biotecnologia - ab233b682ec355648e7891e66c54191b
+1137	77	58	Ciência Política 1 - ab452534c5ce28c4fbb0e102d4a4fb2e
+1139	330	76	Direito E Cidadania - ab817c9349cf9c4f6877e1894a1faa00
+1143	306	76	Gestão Da Produção E Da Qualidade - ac1dd209cbcc5e5d1c6e28598e8cbbe8
+1144	259	12	Estatística Econômica E Introdução À Econometria - acab0116c354964a558e65bdd07ff047
+1145	63	179	Trabalho Final De Curso 2 - acf4b89d3d503d8252c9c4ba75ddbf6d
+1146	235	137	Instituições Internacionais - ad13a2a07ca4b7642959dc0c4c740ab6
+1148	273	161	Promoção Da Saúde Ii - ad9fdd01365d0dcc82e74eda726b851e
+1150	163	161	Epidemiologia - adcdf633242b4e6043ebad178b25eee7
+1151	14	36	Diagnóstico E Manejo De Bacias Hidrográficas - add217938e07bb1fd8796e0315b88c10
+1152	183	18	Didática De Geografia I - ae1eaa32d10b6c886981755d579fb4d8
+1153	144	152	Tópicos De Ética - ae39c7c575bd5ec74789fdf607b7e7a7
+1154	144	152	Tópicos De Filosofia Antiga - ae4f9c931a3867f8aa21a120eb2463ce
+1156	109	41	Auditoria Das Demonstrações Contábeis - ae614c557843b1df326cb29c57225459
+1157	215	166	Introdução À Computação - aeb3135b436aa55373822c010763dd54
+1159	328	60	Multimídia - aebf7782a3d445f43cf30ee2c0d84dee
+1162	329	66	Química Geral Teórica - af5d5ef24881f3c3049a7b9bfe74d58b
+1163	273	161	Microbiologia Geral E De Alimentos - af9e3af2fce6cc6be1928dcb90db81ef
+1164	137	88	Saúde Mental I - afa8c8eed49e11cbaaf8e8d81f351a93
+1165	387	155	Introdução À Física Nuclear E De Partículas - afd4836712c5e77550897e25711e1d96
+1166	254	105	Antropologia E Patrimônio - afda332245e2af431fb7b672a68b659d
+1167	252	5	Linguagem Publicitária - afdec7005cc9f14302cd0474fd0f3c96
+1170	432	77	Introdução A Computação - aff1621254f7c1be92f64550478c56e6
+1171	292	19	Fundamentos De Análise - b056eb1587586b71e2da9acfe4fbd19e
+1172	51	110	Leitura E Produção Textual - b069b3415151fa7217e870017374de7c
+1173	433	170	Métodos Matemáticos Lineares - b06b5541a62ed438f956b662b4e1ec28
+1174	348	77	Amostragem I - b06f50d1f89bd8b2a0fb771c1a69c2b0
+1175	434	79	Programação Orientada A Objetos - b090409688550f3cc93f4ed88ec6cafb
+1177	359	53	Semiologia E Farmacoterapia - b0e7767c78c3bb2c511d272759a1fbf6
+1179	314	79	Fundamentos De Matemática Para Computação - b1057e58a04bdc9bfd49d63512af7f6a
+1181	436	83	Mentoring Para Arquitetura E Urbanismo - b132ecc1609bfcf302615847c1caa69a
+1185	161	87	Fundamentos Da Administração - b197ffdef2ddc3308584dce7afa3661b
+1188	8	161	Química Orgânica Teórica - b21f9f98829dea9a48fd8aaddc1f159d
+1189	49	166	Genética - b23975176653284f1f7356ba5539cfcb
+1190	266	167	Introdução Ao Cuidar I - b24d516bb65a5a58079f0f3526c87c57
+1191	438	83	História Da Arquitetura Ii - b265ce60fe4c5384e622b09eb829b8df
+1193	420	130	Fisiologia Humana - b311ffcc567c27c9e29d46b9ab5275b8
+1194	439	117	Processos E Ferramentas Em Design - b3b43aeeacb258365cc69cdaf42a68af
+1195	156	40	Pesquisa Qualitativa - b3b4d2dbedc99fe843fd3dedb02f086f
+1196	370	87	Físico-Química 4 - b3e3e393c77e35a4a3f3cbd1e429b5dc
+1198	33	95	Indexação E Resumos - b432f34c5a997c8e7c806a895ecc5e25
+1199	35	93	Políticas Públicas E Gestão Ambiental - b440509a0106086a67bc2ea9df0a1dab
+1201	387	155	Termodinâmica - b4a528955b84f584974e92d025a75d1f
+1202	144	152	Introdução À Lógica - b4a5d3e1c186375fed553e0df2872e24
+1208	1	81	Cálculo 1c - b55ec28c52d5f6205684a473a2193564
+1211	259	12	Macroeconomia Ii - b59a51a3c0bf9c5228fde841714f523a
+1214	48	8	Introdução Aos Métodos Instrumentais De Análise - b5baa9c23ac3e015ad287b17a3d4afa3
+1215	425	103	Micoses Oportunísticas - b5dc4e5d9b495d0196f61d45b26ef33e
+1216	156	40	Ação Social - b5f1e8fb36cd7fbeb7988e8639ac79e9
+1218	165	158	Fisiologia Vegetal - b66e7a6e854fb62e000928850d2711b2
+1219	63	179	Tópicos De Sociologia I - b6a1085a27ab7bff7550f8a3bd017df8
+1220	401	13	Análise Real I - b6cda17abb967ed28ec9610137aa45f7
+1221	245	20	Física I - b6e32320fa6bc5a588b90183b95dc028
+1223	161	87	Introdução À Economia - b7087c1f4f89e63af8d46f3b20271153
+1224	367	166	Metabolismo Celular - b710915795b9e9c02cf10d6d2bdb688c
+1225	96	103	Bases Da Biotecnologia - b75bd27b5a48a1b48987a18d831f6336
+1226	372	73	Cálculo 1b - b7892fb3c2f009c65f686f6355c895b5
+1227	292	19	História Da Matemática - b7ee6f5f9aa5cd17ca1aea43ce848496
+1228	143	137	Laboratório De Relações Internacionais Ii - b83aac23b9528732c23cc7352950e880
+1231	410	60	Computação Gráfica - b8b4b727d6f5d1b61fff7be687f7970f
+1235	12	156	Bioquímica I - b9f94c77652c9a76fc8a442748cd54bd
+1237	203	77	Bioestatística - ba3e9b6a519cfddc560b5d53210df1bd
+1238	107	53	Bacteriologia - ba9a56ce0a9bfa26e8ed9e10b2cc8f46
+1239	441	120	Trabalho De Conclusão De Curso I - bad5f33780c42f2588878a9d07405083
+1241	286	170	Desenho - bbaa9d6a1445eac881750bea6053f564
+1242	381	166	Biologia E Zoologia - bc573864331a9e42e4511de6f678aa83
+1245	43	41	Contabilidade Introdutória I - bcb41ccdc4363c6848a1d760f26c28a0
+1247	144	152	Tópicos De Filosofia Iii - bccf244afffc9cccc4f1b8785a9bd635
+1248	430	60	Teoria Dos Grafos - bd0cc810b580b35884bd9df37c0e8b0f
+1249	398	157	Morfologia E Sistemática De Espermatófitas - bd1ab5ccde7eb0c2cab53412d4d3ddf2
+1250	409	5	Tópicos Contemporâneos: Mídias Digitais - bdb106a0560c4e46ccc488ef010af787
+1251	375	158	Introdução À Língua Brasileira De Sinais - Libras - bdc4626aa1d1df8e14d80d345b2a442d
+1252	60	92	Cálculos Em Química - be1df9a5d08724971f64a511e24fc904
+1253	170	60	Análise E Projeto De Algoritmos - be3e9d3f7d70537357c67bb3f4086846
+1254	21	13	Linguagem E Matemática - be53d253d6bc3258a8160556dda3e9b2
+1256	41	40	Psicologia Das Organizações - beb22fb694d513edcf5533cf006dfeae
+1257	27	157	Ecologia De Populações - bf201d5407a6509fa536afc4b380577e
+1258	442	81	Análise Da Paisagem - bf424cb7b0dea050a42b9739eb261a3a
+1259	202	19	Prática De Ensino Orientada - bf62768ca46b6c3b5bea9515d1a1fc45
+1260	144	152	Tópicos De Filosofia Política - bfcd936a1462b0b4caf2d1edc39b9671
+1261	309	66	Obras De Terra - bffc98347ee35b3ead06728d6f073c68
+1262	227	137	Laboratório De Relações Internacionais Iv - c042f4db68f23406c6cecf84a7ebb0fe
+1265	188	142	Ciências Da Natureza: Física Iii - c0a271bc0ecb776a094786474322cb82
+1266	137	88	Saúde Mental I - c0d0e461de8d0024aebcb0a7c68836df
+1267	224	18	Psicologia Da Educação I - c15da1f2b5e5ed6e6837a3802f0d1593
+1270	107	53	Patologia Processos Gerais - c215b446bcdf956d848a8419c1b5a920
+1271	99	155	Geometria Analítica - c22abfa379f38b5b0411bc11fa9bf92f
+1272	443	105	Seminários De Pesquisas Em Museologia - c2626d850c80ea07e7511bbae4c76f4b
+1273	272	120	Antropologia Iii - c26820b8a4c1b3c2aa868d6d57e14a79
+1274	141	161	Estudo Experimental Dos Alimentos - c28745ba8c98c1b76bfe18dabed05323
+1275	282	179	Sociologia Latino-Americana - c2aee86157b4a40b78132f1e71a9e6f1
+1276	425	103	Seminários Em Imunologia E Virologia - c30fb4dc55d801fc7473840b5b161dfa
+1277	32	81	Geopolítica Das Águas - c3535febaff29fcb7c0d20cbe94391c7
+1278	106	18	Biogeografia - c3614206a443012045cfd75d2600af2d
+1280	136	158	Química Geral Teórica - c3a690be93aa602ee2dc0ccab5b7b67e
+1281	168	158	Tópicos Em Biologia - c3e4035af2a1cde9f21e1ae1951ac80b
+1282	154	76	Cálculo Numérico - c4015b7f368e6b4871809f49debe0579
+1283	144	152	Tópicos De Filosofia I - c42079eecb7aed2202b05eea7e170cd8
+1284	137	88	Saúde Mental I - c4492cbe90fbdbf88a5aec486aa81ed5
+1285	137	88	Patologia Humana - c44e503833b64e9f27197a484f4257c0
+1287	372	73	Morfologia E Taxonomia Vegetal - c4de8ced6214345614d33fb0b16a8acd
+1288	423	170	Desenho Básico - c4f796afbc6267501964b46427b3f6ba
+1290	120	87	Bioquímica - c559da2ba967eb820766939a658022c8
+1291	364	35	Biogeografia - c5866e93cab1776890fe343c9e7063fb
+1292	12	156	Métodos Analíticos Em Biomedicina - c59b469d724f7919b7d35514184fdc0f
+1293	158	83	Legislação E Exercício Profissional - c5cc17e395d3049b03e0f1ccebb02b4d
+1294	267	166	Química Orgânica - c5dc3e08849bec07e33ca353de62ea04
+1295	220	43	Comportamento Do Consumidor - c6036a69be21cb660499b75718a3ef24
+1296	61	180	Tutorial Em Saúde Iii - c60d870eaad6a3946ab3e8734466e532
+1297	72	180	Tutorial Em Saúde Ii - c61fbef63df5ff317aecdc3670094472
+1298	193	35	Trabalho De Conclusão De Curso I - c6335734dbc0b1ded766421cfc611750
+1299	186	157	Biologia Celular - c6498249464907096633bc6336cd5c86
+1300	251	167	Corpo Humano Saudável I - c65d7bd70fe3e5e3a2f3de681edc193d
+1302	515	54	A Morte E O Morrer Em Debate: Temas Atuais - c6bff625bdb0393992c9d4db0c6bbe45
+1303	446	40	Ciência Política - c70daf247944fe3add32218f914c75a6
+1304	447	69	Sociologia - c73dfe6c630edb4c1692db67c510f65c
+1305	206	41	Pesquisa Aplicada A Contabilidade - c7af0926b294e47e52e46cfebe173f20
+1306	237	74	Integração 1 - c8067ad1937f728f51288b3eb986afaa
+1307	97	19	Cálculo De Funções De Várias Variáveis - c82bd98b4d0b94613d14247b2efdebcf
+1308	82	93	Fundamentos De Sistemática Biológica - c8758b517083196f05ac29810b924aca
+1309	123	154	Lasers  Princípios E Aplicações Biomédicas - c88d8d0a6097754525e02c2246d8d27f
+1311	27	157	Cálculo 1c - c8c41c4a18675a74e01c8a20e8a0f662
+1312	210	157	Bioestatística - c8cbd669cfb2f016574e9d147092b5bb
+1313	184	13	Topologia - c8dfece5cc68249206e4690fc4737a8d
+1314	144	152	Lógica Ii - c8f106730f0b495b1250de37f9fef0a0
+1318	187	93	Biologia Da Conservação - c92a10324374fac681719d63979d00fe
+1319	144	152	Tópicos De Ontologia E Metafísica - c9c1b449564afe53d346e727fca13e85
+1320	330	76	Química Geral B - c9e1074f5b3f9fc8ea15d152add07294
+1323	449	76	Combustíveis E Energia 1 - ca43108ded5aabc7793d3f9b928cdd54
+1324	51	110	Lógica - ca75910166da03ff9d4655a0338e6b09
+1326	144	152	Filosofia Moderna I - cb353e28b0d5e721d917688fdad0f78e
+1328	225	158	Bioquímica I - cb8da6767461f2812ae4290eac7cbc42
+1329	168	158	Taxonomia E Ecologia De Fungos - cbef46321026d8404bc3216d4774c8a9
+1331	118	167	Corpo Humano Saudável I - cc0991344c3d760ae42259064406bae1
+1332	379	20	Políticas Educacionais No Brasil - cc42acc8ce334185e0193753adb6cb77
+1333	93	18	Teoria E Metodologia Da Geografia I - cc7e2b878868cbae992d1fb743995d8f
+1334	202	19	Equações Diferenciais Ordinárias I - ccb0989662211f61edae2e26d58ea92f
+1336	143	137	Laboratório De Relações Internacionais Ii - cd00692c3bfe59267d5ecfac5310286c
+1338	167	142	Realidade Brasileira Do Campo - cd0dce8fca267bf1fb86cf43e18d5598
+1340	263	77	Estatística I - cd10c7f376188a4a2ca3e8fea2c03aeb
+1341	29	157	Trabalho De Conclusão De Curso I - cd14821dab219ea06e2fd1a2df2e3582
+1342	34	12	Economia E Energia - cd3afef9b8b89558cd56638c3631868a
+1346	326	167	Atenção Integral À Saúde Da Mulher E Da Criança I - cdf1035c34ec380218a8cc9a43d438f9
+1347	34	12	Microeconomia I - cdf1e288ca02272e717c9d5e4cb180bd
+1348	410	60	Sistemas Distribuídos - ce27ed30b183a18f3f4d82b95e6b8819
+1349	22	5	Produção De Texto Jornalístico I - ce5140df15d046a66883807d18d0264b
+1350	152	79	Engenharia De Software - ce6c92303f38d297e263c7180f03d402
+1351	452	105	Espaços Museais E Arquitetura De Museus - ce78d1da254c0843eb23951ae077ff5f
+1352	123	154	Introdução À Física Nuclear E De Partículas - ced556cd9f9c0c8315cfbe0744a3baf0
+1353	98	161	Marketing Em Alimentação E Nutrição - cee631121c2ec9232f3a2f028ad5c89b
+1355	152	79	Sistemas Operacionais - cf05968255451bdefe3c5bc64d550517
+1356	453	119	Estatística Aplicada Às Ciências Sociais - cf1f78fe923afe05f7597da2be7a3da8
+1359	454	120	Ciência Política V - cf9a242b70f45317ffd281241fa66502
+1362	171	179	Antropologia Da Sociedade Brasileira - cfbce4c1d7c425baf21d6b6f2babe6be
+1367	176	79	Pesquisa Operacional - d0921d442ee91b896ad95059d13df618
+1369	457	36	Hidrologia - d095a94d20dcaf7aa07301948549bede
+1370	117	93	Ecofisiologia Vegetal - d0fb963ff976f9c37fc81fe03c21ea7b
+1373	156	40	Empreendedorismo Ii - d198bd736a97e7cecfdf8f4f2027ef80
+1376	206	41	Prática E Estágio Contábil I - d1dc3a8270a6f9394f88847d7f0050cf
+1378	458	120	Laboratório De Prática De Ensino I - d1ee59e20ad01cedc15f5118a7626099
+1379	154	76	Operações Unitárias 1 - d1f491a404d6854880943e5c3cd9ca25
+1380	68	88	Trabalho De Conclusão De Curso Iii - d20be76a86c0d71c75035fced631f874
+1381	153	87	Cálculo 3a - d240e3d38a8882ecad8633c8f9c78c9b
+1384	299	154	Cálculo 1a - d2ed45a52bc0edfa11c2064e9edee8bf
+1385	145	133	Fenômenos De Transporte Para Engenharia Física - d305281faf947ca7acade9ad5c8c818c
+1387	442	81	Análise De Bacias Hidrográficas - d3a7f48c12e697d50c8a7ae7684644ef
+1389	459	130	Anatomia Humana - d3de95d6ccaf241d709fdb0b57bd81fd
+1390	302	74	Experiência Do Usuário De Software - d3fad7d3634dbfb61018813546edbccb
+1391	131	12	Contabilidade Social - d43ab110ab2489d6b9b2caa394bf920f
+1392	117	93	Ecologia De Ecossistemas - d47268e9db2e9aa3827bba3afb7ff94a
+1393	111	79	Algoritmos E Estruturas De Dados 2 - d4dd111a4fd973394238aca5c05bebe3
+1394	150	95	Usos E Usuários Da Informação - d523773c6b194f37b938d340d5d02232
+1395	165	158	Genética - d542599794c1cf067d90638b5d3911f3
+1396	332	105	Museologia Ii - d554f7bb7be44a7267068a7df88ddd20
+1397	381	166	Morfologia E Taxonomia Vegetal - d5a28791769d93068a0bdcf66d89ac20
+1400	68	88	Trabalho De Conclusão De Curso I - d69116f8b0140cdeb1f99a4d5096ffe4
+1401	144	152	Ética - d694e4e6486bbc09dc42900014c441c2
+1402	93	18	Teoria E Metodologia Da Geografia I - d6bcb486f72ae7b5dc68b5b7df7ec887
+1403	460	8	Cálculo Dif. E Integral E Geometria Analítica Iii - d6c651ddcd97183b2e40bc464231c962
+1405	43	41	Introdução À Teoria Da Contabilidade - d72fbbccd9fe64c3a14f85d225a046f4
+1406	302	74	Software Concorrente E Distribuído - d756d3d2b9dac72449a6a6926534558a
+1407	156	40	Administração Pública, Estado E Sociedade - d757719ed7c2b66dd17dcee2a3cb29f4
+1409	156	40	Gestão De Pessoas I - d7657583058394c828ee150fada65345
+1410	351	60	Linguagens Formais E Autômatos - d79c6256b9bdac53a55801a066b70da3
+1411	36	60	Engenharia De Requisitos - d7a84628c025d30f7b2c52c958767e76
+1412	310	43	Trabalho De Conclusão De Curso Ii - d82118376df344b0010f53909b961db3
+1413	275	18	Formação Do Território Brasileiro - d827f12e35eae370ba9c65b7f6026695
+1414	313	60	Lógica Matemática - d8330f857a17c53d217014ee776bfd50
+1415	42	19	Fundamentos De Matemática - d840cc5d906c3e9c84374c8919d2074e
+1417	144	152	Filosofia Antiga - d87445c72cd9e4b92ab2d4a48b0f2e8a
+1418	72	180	Tutorial Em Saúde Ii - d8bf84be3800d12f74d8b05e9b89836f
+1419	136	158	Física Aplicada À Biologia - d8d31bd778da8bdd536187c36e48892b
+1420	389	4	Jornalismo Especializado - d91d1b4d82419de8a614abce9cc0e6d4
+1421	10	142	Ciências Da Natureza - Fisica I - d94e18a8adb4cc0f623f7a83b1ac75b4
+1423	107	53	Patologia Geral - d97b476f273fa2e2fe61846b88f2ce41
+1424	461	77	Probabilidade I - d9fc0cdb67638d50f411432d0d41d0ba
+1425	142	74	Fundamentos De Matemática Para Computação - d9ff90f4000eacd3a6c9cb27f78994cf
+1426	177	87	Álgebra Linear - da0d1111d2dc5d489242e60ebcbaf988
+1427	10	142	Ciências Da Natureza - Biologia Ii - da11e8cd1811acb79ccf0fd62cd58f86
+1428	276	158	Psicologia Da Educação Ii - da8ce53cf0240070ce6c69c48cd588ee
+1430	462	179	Tópicos De Sociologia I - daaaf13651380465fc284db6940d8478
+1432	463	93	Análise De Bacias Hidrográficas - db116b39f7a3ac5366079b1d9fe249a5
+1441	93	18	Geografia Agrária I - dc16622ddc767e6bc1200fe5df2fbdfb
+1442	168	158	Educação Em Saúde - dc19d7cdbed98decc905ef31c795eda0
+1444	29	157	Trabalho De Conclusão De Curso Ii - dc40b7120e77741d191c0d2b82cea7be
+1446	464	19	Cálculo Integral - dc58e3a306451c9d670adcd37004f48f
+1447	428	166	Bioquímica De Biomoléculas - dc5c768b5dc76a084531934b34601977
+1448	107	53	Bacteriologia Humana - dc5d637ed5e62c36ecb73b654b05ba2a
+1449	83	60	Computação E Sociedade - dc6a70712a252123c40d2adba6a11d84
+1450	305	79	Sistemas De Apoio À Decisão - dc72077c823312bfde3942e31e70f360
+1451	427	73	Bioquímica De Biomoléculas - dca5672ff3444c7e997aa9a2c4eb2094
+1452	194	8	Microbiologia Básica - dcc5b77909454e404a29f9b494fc5a49
+1454	156	40	Gestão De Pessoas Ii - dd055f53a45702fe05e449c30ac80df9
+1456	466	54	Gestalt E Grupos - dd28e50635038e9cf3a648c2dd17ad0a
+1458	13	43	Iniciação Acadêmica  Práticas De Pesquisa - dd77279f7d325eec933f05b1672f6a1f
+1459	8	161	Fundamentos Teórico-Práticos Do Sus - dda04f9d634145a9c68d5dfe53b21272
+1460	117	93	Ecofisiologia Vegetal - ddd074c99d08e4235696159e53bbc203
+1461	283	158	Estágio Curricular Obrigatório I - ddd9dda6bfaf0bb1525a8a27c3ee6131
+1463	266	167	Método Clínico Iii - de03beffeed9da5f3639a621bcab5dd4
+1466	372	73	Morfologia E Taxonomia Vegetal - de73998802680548b916f1947ffbad76
+1467	156	40	Marketing I - deb54ffb41e085fd7f69a75b6359c989
+1468	282	179	Avaliação De Políticas Públicas - df0aab058ce179e4f7ab135ed4e641a9
+1469	234	79	Auditoria De Sistemas - df1f1d20ee86704251795841e6a9405a
+1470	99	155	Fundamentos Filosóficos E Sócio-Hist. Da Educação - df263d996281d984952c07998dc54358
+1471	225	158	Biofísica - df4fe8a8bcd5c95cdb640aa9793bb32b
+1472	137	88	Saúde Mental I - df56e590925db7e616440725054ac859
+1474	56	155	Psicologia Da Educação Ii - df7f28ac89ca37bf1abd2f6c184fe1cf
+1475	372	73	Física Ii - df9028fcb6b065e000ffe8a4f03eeb38
+1477	156	40	Responsabilidade Socioambiental Corporativa - dfce06801e1a85d6d06f1fdd4475dacd
+1479	120	87	Química Inorgânica - e00da03b685a0dd18fb6a08af0923de0
+1480	467	74	Projeto De Software - e02e27e04fdff967ba7d76fb24b8069d
+1482	77	58	Antropologia 1 - e0688d13958a19e087e123148555e4b4
+1483	116	18	Metodologia De Ensino De Geografia I - e069ea4c9c233d36ff9c7f329bc08ff1
+1485	310	43	Introdução À Ciência Política - e077e1a544eec4f0307cf5c3c721d944
+1486	351	60	Sistemas Operacionais - e0a209539d1e74ab9fe46b9e01a19a97
+1487	156	40	Matemática Financeira - e0ab531ec312161511493b002f9be2ee
+1489	469	78	Trabalho De Conclusão De Curso Ii - e113bb92c69391dd39e2488f9f588382
+1490	107	53	Epidemiologia - e1314fc026da60d837353d20aefaf054
+1491	60	92	Química Geral - e139c454239bfde741e893edb46a06cc
+1493	409	5	Rp Especializada I - e17184bcb70dcf3942c54e0b537ffc6d
+1494	13	43	Administração - e19347e1c3ca0c0b97de5fb3b690855a
+1496	51	110	Tópicos Em Gestão Da Informação I - e1e32e235eee1f970470a3a6658dfdd5
+1497	322	145	Pesquisa Histórica Ii - e205ee2a5de471a70c1fd1b46033a75f
+1498	470	93	Ecologia Comportamental - e21e4e58ad9ab56e8a4634046da90113
+1500	273	161	Imunologia Básica - e27f55aa5b111d222e3f5ad2fd836ee8
+1501	254	105	História Dos Museus - e2a2dcc36a08a345332c751b2f2e476c
+1502	161	87	Fundamentos De Higiene E Segurança Do Trabalho - e2c420d928d4bf8ce0ff2ec19b371514
+1506	472	12	Elaboração E Análise De Projetos - e45823afe1e5120cec11fc4c379a0c67
+1507	139	166	Física I - e4873aa9a05cc5ed839561d121516766
+1509	449	76	Controle Digital De Processos - e49b8b4053df9505e1f48c3a701c0682
+1510	79	155	Mecânica Clássica I - e4bb4c5173c2ce17fd8fcd40041c068f
+1511	252	5	Tópicos Contemporâneos: Mídias Digitais - e515df0d202ae52fcebb14295743063b
+1513	30	155	Física Iii - e555ebe0ce426f7f9b2bef0706315e0c
+1514	473	120	Métodos E Técnicas De Pesquisa Social Ii - e56b06c51e1049195d7b26d043c478a0
+1515	184	13	Estatística - e57c6b956a6521b28495f2886ca0977a
+1516	446	40	Direito Empresarial - e5841df2166dd424a57127423d276bbe
+1517	474	91	Química Ambiental - e58aea67b01fa747687f038dfde066f6
+1519	380	76	Física 3 - e5a4d6bf330f23a8707bb0d6001dfbe8
+1522	144	152	Tópicos De Ontologia E Metafísica - e60eb9abf60f82017dac678d8b730419
+1523	109	41	Sistemas De Informações Contábeis - e6384711491713d29bc63fc5eeb5ba4f
+1524	157	154	Física Iv - e655c7716a4b3ea67f48c6322fc42ed6
+1525	275	18	Trabalho De Conclusão De Curso I - e6c2dc3dee4a51dcec3a876aa2339a78
+1526	476	12	Cálculo 2b - e6cb2a3c14431b55aa50c06529eaa21b
+1528	115	77	Cálculo Iii - e71e5cd119bbc5797164fb0cd7fd94a4
+1529	340	40	Fundamentos Da Macroeconomia - e727fa59ddefcefb5d39501167623132
+1530	198	13	Linguagem E Matemática - e77dbaf6759253c7c6d0efc5690369c7
+1531	364	35	Prática De Campo Em Geografia - e7e23670481ac78b3c4122a99ba60573
+1533	368	12	Cálculo 1b - e820a45f1dfc7b95282d10b6087e11c0
+1534	340	40	Direito Tributário - e836d813fd184325132fca8edcdfb40e
+1538	186	157	Química Geral Teórica - e92d74ccacdc984afa0c517ad0d557a6
+1539	224	18	Fundamentos Filosóficos E Sócio-Históricos Da Educ - e94550c93cd70fe748e6982b3439ad3b
+1540	158	83	Teorias Da Arquitetura - e94f63f579e05cb49c05c2d050ead9c0
+1542	208	91	Fundamentos Filosófico E Sócio-Histór. Da Educação - e995f98d56967d946471af29d7bf99f1
+1544	144	152	Lógica - e9b7fcc222cc82df5273cda93f90531c
+1545	34	12	Economia Brasileira Ii - ea119a40c1592979f51819b0bd38d39d
+1546	34	12	Teoria Dos Jogos - ea159dc9788ffac311592613b7f71fbb
+1549	82	93	Ecologia Comportamental - ea5a486c712a91e48443cd802642223d
+1550	477	120	Trabalho De Conclusão De Curso Ii - ea8fcd92d59581717e06eb187f10666d
+1551	418	4	Língua Portuguesa - eaa32c96f620053cf442ad32258076b9
+1552	478	53	Físico-Química - eaa52f3366768bca401dca9ea5b181dd
+1553	77	58	Introdução À Metodologia Científica - eb06b9db06012a7a4179b8f3cb5384d3
+1554	194	8	Físico-Química - eb0ecdb070a1a0ac46de0cd733d39cf3
+1558	28	88	Saúde Coletiva I - ebd6d2f5d60ff9afaeda1a81fc53e2d0
+1559	283	158	Anatomia Vegetal - ec30c0dc9717415363efe767c554f726
+1561	161	87	Química Fundamental - eccbc87e4b5ce2fe28308fd9f2a7baf3
+1564	479	53	Toxicologia Geral - eddea82ad2755b24c4e168c5fc2ebd40
+1565	99	155	Fundamentos Filosóficos E Sócio-Hist. Da Educação - edfbe1afcf9246bb0d40eb4d8027d90f
+1566	165	158	Bioestatística - ee26fc66b1369c7625333bedafbfcaf6
+1567	97	19	Didática Da Matemática I - ee8fe9093fbbb687bef15a38facc44d2
+1568	212	12	Demografia Econômica - eed5af6add95a9a6f1252739b1ad8c24
+1570	184	13	Tópicos Em Matemática - ef0917ea498b1665ad6c701057155abe
+1571	423	170	Química Geral B - ef1e491a766ce3127556063d49bc2f98
+1572	259	12	Finanças I - ef2a4be5473ab0b3cc286e67b1f59f44
+1574	480	91	Cálculo 2b - ef4e3b775c934dada217712d76f3d51f
+1575	51	110	Mercadologia - ef575e8837d065a1683c022d2077d342
+1576	359	53	Farmácia Clínica - ef71964b1abe67e8252a1e27476e12b6
+1577	328	60	Empreendedorismo - ef8446f35513a8d6aa2308357a268a7e
+1578	481	7	Farmacologia - efdf562ce2fb0ad460fd8e9d33e57f57
+1579	482	120	Estágio Supervisionado Iii - effc299a1addb07e7089f9b269c31f2f
+1580	144	152	Filosofia Antiga I - f085290f99a9ab117e8bf7280b9591fd
+1583	246	168	Química Geral B - f0f6ba4b5e0000340312d33c212c3ae8
+1584	150	95	Representação Descritiva I - f0fcf351df4eb6786e9bb6fc4e2dee02
+1585	10	142	Ciências Da Natureza - Química I - f12f2b34a0c3174269c19e21c07dee68
+1586	199	104	Bioensaio - f15d337c70078947cfe1b5d6f0ed3f13
+1588	355	87	Engenharia Bioquímica - f18a6d1cde4b205199de8729a6637b42
+1589	82	93	Metodologia Científica E Filosofia Da Ciência - f1981e4bd8a0d6d8462016d2fc6276b3
+1590	202	19	Prática De Ensino Orientada - f1c1592588411002af340cbaedd6fc33
+1592	21	13	Fundamentos De Matemática - f1e2b2c9255d552500a833ac828cd635
+1594	42	19	Geometria Plana - f2201f5191c4e92cc5af043eebfd0946
+1596	253	167	Determinantes Biológicos No Processo Saúde - Doença I - f26040d2f3ac8ef787f745ed0bfc9fc1
+1597	156	40	Finanças De Longo Prazo - f26dab9bf6a137c3b6782e562794c2f2
+1598	130	7	Imunologia - f28d8fbe288d39709c2bd7ca474c63be
+1599	267	166	Morfologia E Taxonomia Vegetal - f2c09f525ffdfcb268630e20465be49f
+1600	485	156	Radiobiologia - f3144cefe89a60d6a1afaf7859c5076b
+1601	206	41	Contabilidade Intermediária 1 - f3173935ed8ac4bf073c1bcd63171f8a
+1603	133	5	Teoria Da Imagem - f33ba15effa5c10e873bf3842afb46a6
+1604	29	157	Paleobiologia - f39ae9ff3a81f499230c4126e01f421b
+1606	486	120	Mét. E Téc. De Pesq Social I - Metodologia Teórica - f3bd5ad57c8389a8a1a541a76be463bf
+1607	210	157	Biologia Parasitária - f3d7d3f8a0849dce080e37d1a1696aae
+1608	430	60	Programação Orientada A Objetos - f3e52c300b822a8123e7ace55fe15c08
+1609	109	41	Tópicos Em Contabilidade I - f442d33fa06832082290ad8544a8da27
+1610	487	69	Gestão De Projetos - f4552671f8909587cf485ea990207f3b
+1614	141	161	Sociologia - f4dd765c12f2ef67f98f3558c282a9cd
+1615	144	152	Tópicos De Filosofia Política - f5027ea4de06ca017f80546012e9f535
+1616	109	41	Prática E Estágio Contábil I - f50a6c02a3fc5a3a5d4d9391f05f3efc
+1617	488	18	Tópicos Em Geografia Humana - f516dfb84b9051ed85b89cdc3a8ab7f5
+1618	489	120	Sociologia Iii - f52378e14237225a6f6c7d802dc6abbd
+1619	68	88	Processo De Cuidar Em Saúde Da Criança E Do Adolescente Ii - f52854cc99ae1c1966b0a21d0127975b
+1622	282	179	Sociologia Da Violência E Do Conflito - f57a2f557b098c43f11ab969efe1504b
+1623	84	156	Parasitologia Básica - f5b4f6a8462eda80dbedf6a393806c49
+1624	132	157	Tópicos Em Biologia I - f5c3dd7514bf620a1b85450d2ae374b1
+1625	206	41	Contabilidade Governamental Ii - f60bb6bb4c96d4df93c51bd69dcc15a0
+1628	111	79	Banco De Dados - f65aa91fbc299bd73f4cada460f6cee1
+1629	98	161	Planejamento De Unidades De Alimentação E Nutrição - f66e5f384e8f8aa1d09734d8692a4299
+1630	84	156	Biologia Molecular - f670ef5d2d6bdf8f29450a970494dd64
+1631	367	166	Fisiologia Do Metabolismo Vegetal - f697aa712a0bea63e9fc579b63a662bf
+1632	145	133	Administração - f69e505b08403ad2298b9f262659929a
+1633	199	104	Soberania Alimentar - f6e794a75c5d51de081dbefa224304f9
+1634	384	156	Metodologia Qualitativa Em Saúde - Procedimentos Do Trabalho De Campo - f708f064faaf32a43e4d3c784e6af9ea
+1635	263	77	Estatística I - f7696a9b362ac5a51c3dc8f098b73923
+1636	30	155	Estágio I - f79921bbae40a577928b76d2fc3edc2a
+1637	144	152	Filosofia Da Linguagem - f7aa8576835cc544e181f6b68717b9b9
+1640	198	13	Geometria Analítica - f7e0b956540676a129760a3eae309294
+1642	432	77	Introdução A Computação - f7e9050c92a851b0016442ab604b0488
+1643	171	179	Ciência Política 3 - f7f580e11d00a75814d2ded41fe8e8fe
+1644	156	40	Inovação E Marketing De Novos Produtos - f80bf05527157a8c2a7bb63b22f49aaa
+1645	288	81	Introdução À Climatologia - f80ff32e08a25270b5f252ce39522f72
+1647	115	77	Estatística Computacional I - f8b932c70d0b2e6bf071729a4fa68dfc
+1648	73	182	Antropologia 1 - f8da71e562ff44a2bc7edf3578c593da
+1649	241	80	Microbiologia Zootécnica - f8fcc9b5542ba0f682627ea368ed7de0
+1650	4	69	Controle Estatístico De Processo - f9028faec74be6ec9b852b0a542e2f39
+1651	253	167	Saúde, Família E Comunidade Iii - f9650a4d9fe4f8366ef77dfd558ecccd
+1652	490	18	Climatologia Ii - f976b57bb9dd27aa2e7e7df2825893a6
+1653	42	19	Cálculo Diferencial - fa14d4fe2f19414de3ebd9f63d5c0169
+1654	65	167	Saúde Da Criança, Adolescente E Saúde Coletiva Infantil - fa1e9c965314ccd7810fb5ea838303e5
+1655	183	18	Estágio Supervisionado Em Geografia I - fa2431bf9d65058fe34e9713e32d60e6
+1656	332	105	Teorias Do Objeto E Estudos De Cultura Material - fa3a3c407f82377f55c19c5d403335c7
+1659	132	157	Tópicos Em Genética - faacbcd5bf1d018912c116bf2783e9a1
+1660	206	41	Organização, Sistemas E Métodos - faafda66202d234463057972460c04f5
+1661	189	161	Farmacologia Aplicada À Nutrição - facf9f743b083008a894eee7baa16469
+1662	491	26	Monografia Jurídica I (Projeto) - fae0b27c451c728867a567e8c1bb4e53
+1663	156	40	Negócios Internacionais - fb2e203234df6dee15934e448ee88971
+1665	77	58	Ciência Política 1 - fb4ab556bc42d6f0ee0f9e24ec4d1af0
+1666	164	120	Ciência Política Iii - fb508ef074ee78a0e58c68be06d8a2eb
+1667	156	40	Marketing Ii - fb87582825f9d28a8d42c5e5e5e8b23d
+1668	359	53	Química Orgânica - fb89fd138b104dcf8e2077ad2a23954d
+1669	226	133	Desenvolvimento De Projeto - fb8feff253bb6c834deb61ec76baa893
+1671	492	53	Farmacologia Ii - fc03d48253286a798f5116ec00e99b2b
+1672	389	4	Assessoria E Consultoria Em Comunicação - fc2c7c47b918d0c2d792a719dfb602ef
+1674	206	41	Contabilidade De Seguros E Previdência - fc528592c3858f90196fbfacc814f235
+1675	131	12	Estatística Econômica E Introdução À Econometria - fc6709bfdf0572f183c1a84ce5276e96
+1677	25	78	Trabalho De Conclusão De Curso I - fca0789e7891cbc0583298a238316122
+1678	157	154	Mecânica Clássica Ii - fcdf25d6e191893e705819b177cddea0
+1679	5	76	Administração Da Produção E Operações - fd5c905bcd8c3348ad1b35d7231ee2b1
+1680	21	13	Cálculo Diferencial - fd69dbe29f156a7ef876a40a94f65599
+1681	109	41	Contabilidade De Seguros E Previdência - fddd7938a71db5f81fcc621673ab67b7
+1684	220	43	Sociologia - fe51510c80bfd6e5d78a164cd5b1f688
+1686	493	83	Tópicos Especiais Em Teoria E Estética Da Arquitetura E Da Arte - fe70c36866add1572a8e2b96bfede7bf
+1687	227	137	Trabalho De Conclusão De Curso 2 - fe73f687e5bc5280214e0486b273a5f9
+1689	167	142	Matemática Para Ciências Da Natureza I - fe8c15fed5f808006ce95eddb7366e35
+1690	34	12	Organização Industrial - fea9c11c4ad9a395a636ed944a28b51a
+1691	171	179	Antropologia 3 - feab05aa91085b7a8012516bc3533958
+1692	239	74	Engenharia De Software - fec87a37cdeec1c6ecf8181c0aa2d3bf
+1693	102	40	Estatística Descritiva E Probabilidade - fec8d47d412bcbeece3d9128ae855a7a
+1694	494	83	Sistemas Estruturais Na Arquitetura Ii - fecf2c550171d3195c879d115440ae45
+1697	41	40	Fundamentos De Contabilidade - fface8385abbf94b4593a0ed53a0c70f
+1698	191	161	Gestão De Unidades De Alimentação E Nutrição - ffb873315aaa1692c0d78a903f05e59a
+1699	275	18	Estágio Supervisionado Em Geografia Iii - ffedf5be3a86e2ee281d54cdc97bc1cf
+1700	279	43	Seminários Temáticos Em Comunicação - ffeed84c7cb1ae7bf4ec4bd78275bb98
+1701	277	133	Introdução À Computação - 007349dc94f006a55a2f73efcf050838
+1702	68	88	Processo De Cuidar Em Saúde Da Criança E Do Adolescente Ii - 01ed5559df15bb8b5e514ef8e91b89d6
+1704	496	41	Tópicos Em Contabilidade I - 03fa2f7502f5f6b9169e67d17cbf51bb
+1707	20	8	Geometria Analítica - 045cf83ab0722e782cf72d14e44adf98
+1708	34	12	Economia Política - 058d6f2fbe951a5a56d96b1f1a6bca1c
+1712	499	189	Lógica Matemática - 110eec23201d80e40d0c4a48954e2ff5
+1714	500	188	Química Geral - 18ad9899f3f21a5a1583584d5f11c0c0
+1717	109	41	Tópicos Em Contabilidade I - 220c77af02f8ad8561b150d93000ddff
+1722	34	12	Fundamentos De Contabilidade - 33267e5dc58fad346e92471c43fcccdc
+1723	500	188	Introdução À Química Industrial - 358aee4cc897452c00244351e4d91f69
+1724	229	83	Espaço Arquitetônico: Percepção E Representação - 35c5a2cb362c4d214156f930e7d13252
+1726	34	12	Fundamentos De Contabilidade - 362387494f6be6613daea643a7706a42
+1727	166	167	Determinantes Biológicos No Processo Saúde - Doença I - 370bfb31abd222b582245b977ea5f25a
+1730	20	8	Física I - 44ac09ac6a149136a4102ee4b4103ae6
+1732	109	41	Tópicos Em Contabilidade Ii - 4bbdcc0e821637155ac4217bdab70d2e
+1736	69	79	Comunicação Organizacional - 5a99158e0c52f9e7d290906c9d08268d
+1737	206	41	Tópicos Em Contabilidade Ii - 64a08e5f1e6c39faeb90108c430eb120
+1738	109	41	Tópicos Em Contabilidade Ii - 65f2a94c8c2d56d5b43a1a3d9d811102
+1739	313	60	Algoritmos E Estruturas De Dados 1 - 66f1aba1942908a7b3e9c91f4f87814b
+1740	299	154	Introdução À Computação - 6bf44b38b76969f8e940603664c1fdde
+1743	229	83	Desenho: Observação E Expressão - 7f141cf8e7136ce8701dc6636c2a6fe4
+1745	68	88	Processo De Cuidar Em Saúde Da Criança E Do Adolescente Ii - 8094fb55d420dcec4c82b991dc7cea1f
+1746	206	41	Tópicos Em Contabilidade I - 81c2f886f91e18fe16d6f4e865877cb6
+1749	263	77	Cálculo Diferencial - 98d8a23fd60826a2a474c5b4f5811707
+1751	69	79	Laboratório De Engenharia De Software - 9c8bd3c3df1fb5815d1aaa844cf76ffa
+1754	36	60	Visualização De Informações - a44834e7b229346e9772ded2ad7b929a
+1756	34	12	Economia Política - ad47a008a2f806aa6eb1b53852cd8b37
+1757	500	188	Fundamentos Da Matemática Aplicados À Química - b096577e264d1ebd6b41041f392eec23
+1758	436	83	Dibujo Del Paisaje Urbano - b0bef4c9a6e50d43880191492d4fc827
+1760	8	161	Introdução À Prática Profissional - c058f544c737782deacefa532d9add4c
+1761	505	74	Segurança - c315f0320b7cd4ec85756fac52d78076
+1765	229	83	Introdução À Arquitetura I - d58e2f077670f4de9cd7963c857f2534
+1766	499	189	Empreendedorismo - d790c9e6c0b5e02c87b375e782ac01bc
+1767	109	41	Tópicos Em Contabilidade I - df0e09d6f25a15a815563df9827f48fa
+1770	69	79	Linguagem De Programação Java - ee2e68a490bb372a4f3ffae4937c3f35
+1771	20	8	Física I - f499d34bd87b42948b3960b8f6b82e74
+1772	20	8	Cálculo 1a - f75526659f31040afeb61cb7133e4e6d
+1774	8	161	Introdução À Prática Profissional - fb7b9ffa5462084c5f4e7e85a093e6d7
+1776	506	88	Parasitologia Humana - 1cd138d0499a68f4bb72bee04bbec2d7
+1780	509	142	Ciências Da Natureza: Química Iii - 92bf5e6240737e0326ea59846a83e076
+1784	499	189	Introdução À Programação - f6185f0ef02dcaec414a3171cd01c697
+1785	34	12	Princípios De Economia - 0d93f8ff81a09a8c04adcdc47ab63a02
+1786	221	53	Cálculo 1c - 1264a061d82a2edae1574b07249800d6
+1787	142	74	Cálculo 1a - 2e0bff759d057e28460eaa5b2cb118e5
+1788	170	60	Cálculo Numérico - 4191ef5f6c1576762869ac49281130c9
+1789	107	53	Bacteriologia Humana - 44a2e0804995faf8d2e3b084a1e2db1d
+1790	40	167	Saúde Do Adulto E Do Idoso - Endocrinologia, Otorrinolaringologia, Cirurgia De Cabeça E Pescoço - 5be278a9e02bed9248a4674ff62fea2c
+1791	65	167	Saúde Do Adulto E Do Idoso - Endocrinologia, Otorrinolaringologia, Cirurgia De Cabeça E Pescoço - 60243f9b1ac2dba11ff8131c8f4431e0
+1792	239	74	Probabilidade E Estatística A - 74378afe5e8b20910cf1f939e57f0480
+1793	110	79	Probabilidade E Estatística A - 952c3ff98a6acdc36497d839e31aa57c
+1794	313	60	Geometria Analítica - a7f592cef8b130a6967a90617db5681b
+1795	221	53	Cálculo 1c - ad82140cafe816c41a9c9974e9240b7a
+1796	353	74	Álgebra Linear - ae587cfeea5ac21a8f1c1ea51027fef0
+1797	269	167	Saúde Do Adulto E Do Idoso - Endocrinologia, Otorrinolaringologia, Cirurgia De Cabeça E Pescoço - aeefb050911334869a7a5d9e4d0e1689
+1798	511	7	Imunologia - b19aa25ff58940d974234b48391b9549
+1799	135	167	Saúde Do Adulto E Do Idoso - Endocrinologia, Otorrinolaringologia, Cirurgia De Cabeça E Pescoço - ccd45007df44dd0f12098f486e7e8a0f
+1800	9	60	Álgebra Linear - d47844673f2db74d78da8687d794523d
+1801	9	60	Probabilidade E Estatística A - e27a949795bbe863f31c3b79a2686770
+1802	430	60	Equações Diferenciais Ordinárias - e465ae46b07058f4ab5e96b98f101756
+1803	512	78	Estágio Em Educ. Inf. E Anos Ini. Do Ens. Fund Iii - ec0bfd000f253eff3acb1043e1c06979
+1804	83	60	Cálculo 1a - fb3f76858cb38e5b7fd113e0bc1c0721
+1806	516	24	Fisiologia - 0738069b244a1c43c83112b735140a16
+1807	241	80	Imunologia Básica - 07a075d72817683426bce8451af3a6d5
+1808	40	167	Saúde Do Adulto E Do Idoso - Psiquiatria/Medicina Legal E Saúde Mental Coletiva - 08e6bea8e90ba87af3c9554d94db6579
+1809	478	53	Introdução À Farmacologia - 09b69adcd7cbae914c6204984097d2da
+1810	427	73	Introdução À Computação - 0ecc37673b054c6fc872e202d67f2219
+1811	89	30	Núcleos Temáticos De Pesquisa - 0fc170ecbb8ff1afb2c6de48ea5343e7
+1812	9	60	Física Iii - 12311d05c9aa67765703984239511212
+1813	430	60	Circuitos Digitais - 182e6c2d3d78eef40e5dac7da77a748f
+1814	517	48	
+1815	221	53	Farmacobotânica - 289efc4f6663841c81019864a04426de
+1816	518	60	Direito - 28acfe2da49d2b9a7f177458256f2540
+1817	519	13	Cálculo 1a - 2bc8ae25856bc2a6a1333d1331a3b7a6
+1818	141	161	Promoção Da Saúde I - 2e43b384cf62c6111d2858bc0a357cbe
+1819	221	53	Biofísica - 39d352b0395ba768e18f042c6e2a8621
+1820	40	167	Saúde Da Criança, Adolescente E Saúde Coletiva Infantil - 3a20f62a0af1aa152670bab3c602feed
+1821	313	60	Física I - 3fc2c60b5782f641f76bcefc39fb2392
+1822	98	161	Educação Nutricional Ii - 450a0702188a107199b433177321acf5
+1823	520	24	Farmacologia Aplicada A Enfermagem - 46b2644cbdf489fac0e2d192212d206d
+1824	221	53	Farmacobotânica - 46f76a4bda9a9579eab38a8f6eabcda1
+1825	516	24	Fisiologia - 4ea6a546c19499318091a9df40a13181
+1826	34	12	Princípios De Economia - 562f3029ed2c641fc2954b65838bc423
+1827	221	53	Bioquímica - 5eb029622d45725703507a247c8077c4
+1828	372	73	Morfologia E Taxonomia Vegetal - 7446d146ffdce97bc63f51913a419e3a
+1829	35	93	Ecologia Do Cerrado - 765d5fb115a9f6a3e0b23b80a5b2e4c4
+1830	162	161	Nutrição Em Saúde Pública Ii - 769ec87596d1c7a9433c45ec2df00a30
+1831	478	53	Introdução À Farmacologia - 77bfcc66008f46c1da5ad4dc4a79e5a8
+1832	40	167	Saúde Do Adulto E Do Idoso - Sistema Locomotor, Cirurgia Plástica E Geriatria/Cuidados Paliativos - 78b9cab19959e4af8ff46156ee460c74
+1833	221	53	Farmacobotânica - 8e987cf1b2f1f6ffa6a43066798b4b7f
+1834	269	167	Saúde Do Adulto E Do Idoso - Sistema Urinário - 970af30e481057c48f87e101b61e6994
+1835	224	18	Geografia Agrária I - 9752d873fa71c19dc602bf2a0696f9b5
+1836	221	53	Farmacobotânica - 976f9a8868bacb914f0d5eba9d28e77c
+1837	519	13	Cálculo 2a - ade55409d1224074754035a5a937d2e0
+1838	170	60	Eletrônica Para Computação - b030afbb3a8af8fb0759241c97466ee4
+1839	191	161	Nutrição Materno-Infantil E Do Adolescente Ii - b0feafd65feba104d837381795d623c2
+1840	478	53	Introdução À Farmacologia - b139aeda1c2914e3b579aafd3ceeb1bd
+1841	478	53	Fisiologia Humana E Biofísica - b18941c989ebaeb587a4bbec8585f336
+1842	478	53	Fisiologia Humana E Biofísica - b2eb7153d10346b5b974403009a40592
+1843	8	161	Fundamentos Teórico-Práticos Do Sistema Único De Saúde - c0665044accc682ed7c1f68e31027ece
+1844	64	20	Psicologia Da Educação I - d0010a6f34908640a4a6da2389772a78
+1845	189	161	Educação Nutricional I - d1af4b51af86bca4491d499928df4e31
+1846	478	53	Fisiologia Humana E Biofísica - f32640adad446b6d8fb0c248d3946f40
+1847	521	152	Tópicos De Filosofia Vi - 156912a9b9423652aaecfddcd1313940
