@@ -5,7 +5,7 @@ class Room:
 	def __init__(self, uniqueId, bld, cap, roomType, special, name):
 		self.uniqueId = uniqueId
 		self.bld = bld
-		self.cap = cap
+		self.cap = int(cap)
 		self.roomType = roomType
 		self.special = special
 		self.name = name

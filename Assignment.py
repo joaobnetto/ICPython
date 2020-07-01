@@ -6,15 +6,19 @@ from Flow import Graph
 
 # Valores constantes
 roomsFileName = "SIDS/Rooms.txt"
-# PlaceHolder, mudar depois
-lessonsFileInputName = "SIDS/LessonsTest.txt"
+lessonsFileInputName = "SIDS/Lessons.txt"
 lessonsFileOutputName = "Output/Lessons.txt"
 #Indexação de 1 até x, logo coloco x+1
 weekLength = 7
 hourLength = 18
+dataDefaultLen = 14
+percentagePrecison = 0.30 # Aumentar se necessário
+defaultPriorityWeight = int(-100)
 
 def calculateCost(room, lesson):
-	return 100 # placeholder
+	weight = (lesson.priori * defaultPriorityWeight) + abs(room.cap - lesson.vacan)
+	return weight
+
 
 # Essa função recebe um conjunto de salas(Rooms) e aulas(Lessons)
 # já separadas por dia e horários, cria aresta entre os dois se os 
@@ -31,7 +35,10 @@ def assignLessonsToRoom(Rooms, Lessons, finalLessons):
 	for room in Rooms:
 		edges.append([startOfRooms + roomCount, destiny, 0, 1])
 		for lesson in Lessons:
-			if(room.bld == lesson.bld and room.roomType == lesson.roomType and room.cap == lesson.cap):
+			minCapacity = (int) (room.cap - room.cap * percentagePrecison)
+			maxCapacity = (int) (room.cap + room.cap * percentagePrecison)
+			if(room.bld == lesson.bld and room.roomType == lesson.roomType 
+				and minCapacity <= lesson.vacan and maxCapacity >= lesson.vacan):
 				cost = calculateCost(room, lesson)
 				edges.append([lesson.tmpId, startOfRooms + roomCount, cost, 1])
 
@@ -47,12 +54,16 @@ def assignLessonsToRoom(Rooms, Lessons, finalLessons):
 			roomIdx = result-startOfRooms
 			lesson.setRoom(Rooms[roomIdx].uniqueId)
 			finalLessons.append(lesson)
+		else:
+			lesson.setRoom(-1)
+			finalLessons.append(lesson)
 
 # Separa as aulas por horarios e dias
 def alocarPorHorarios():
 	rooms = readRoomsFromArchive()
 	allLessons = readLessonsFromArchive()
 	finalLessons = []
+
 	for day in range(1,weekLength):
 		for hour in range(1, hourLength):
 			currentLessons = []
@@ -62,6 +73,7 @@ def alocarPorHorarios():
 					lesson.tmpId = lessonCount
 					lessonCount += 1
 					currentLessons.append(lesson)
+
 			assignLessonsToRoom(rooms, currentLessons, finalLessons)
 
 	writeAllocationToArchive(finalLessons)
@@ -85,7 +97,7 @@ def readRoomsFromArchive():
 
 
 # Importante que o arquivo esteja definido como:
-# ID Group Solicit Course Entity Day Hour Bld Type Cap
+# ID Group Solicit Course Entity Day Hour Bld Type Room Vacan Matric Priori Special
 # Pois é acessado diretamente por índice
 def readLessonsFromArchive():
 	file = open(lessonsFileInputName)
@@ -94,7 +106,19 @@ def readLessonsFromArchive():
 	file.readline()
 	for currentLine in file:
 		data = currentLine.split()
-		lesson = Lesson(data[0], data[1], data[2], data[3], data[4], data[5], data[6], data[7], data[8], data[9])
+		# Se estiver faltando um costuma ser room, adiciono ela
+		if(len(data) != dataDefaultLen):
+			data.insert(9, 0)
+		# Se o tamanho não estiver correto ainda, está mal formatado
+		# logo não adiciono.
+		# TODO: Adicionar logging dos pedidos que estão falhos.
+		if(len(data) != dataDefaultLen):
+			continue
+		# Placeholder
+		data[9] = -1
+		lesson = Lesson(data[0], data[1], data[2], data[3], data[4],
+				 data[5], data[6], data[7], data[8], data[9], data[10],
+				 data[11], data[12], data[13])
 		lessons.append(lesson)
 	file.close()
 	return lessons
@@ -106,13 +130,18 @@ def writeAllocationToArchive(finalLessons):
 	file.close()
 
 	file = open(lessonsFileOutputName, "w")
-	file.write(header[0:len(header)-1] + " Room\n")
+	file.write(header)
 	finalLessons.sort(key=operator.attrgetter('uniqueId'))
+	count = 0
 	for lesson in finalLessons:
-		memberList = [lesson.uniqueId, lesson.group, lesson.solicit, lesson.course, lesson.entity, lesson.day, lesson.hour, lesson.bld, lesson.roomType, lesson.cap, lesson.room, "\n"]
+		count = count + 1 if lesson.room == -1 else count
+		memberList = [lesson.uniqueId, lesson.group, lesson.solicit,
+					 lesson.course, lesson.entity, lesson.day, lesson.hour,
+					 lesson.bld, lesson.roomType, 
+					 lesson.room if lesson.room != -1 else " ",
+					 lesson.vacan, lesson.matric, lesson.priori, 
+					 lesson.special, "\n"]
 		line = " ".join(map(str, memberList))
 		file.write(line)
-
-
-
+	print(count)
 alocarPorHorarios()

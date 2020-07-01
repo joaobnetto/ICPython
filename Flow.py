@@ -34,7 +34,8 @@ class Graph:
 			inqueue[current] = False
 
 			for vertex, cost in self.graph[current]: 
-				if(self.capacityMatrix[current][vertex] > 0 and distance[current] + cost < distance[vertex]):
+				if(self.capacityMatrix[current][vertex] > 0 and
+					 distance[current] + cost < distance[vertex]):
 					distance[vertex] = distance[current] + cost
 					path[vertex] = current
 					if(not inqueue[vertex]):
@@ -69,7 +70,8 @@ class Graph:
 			currentFlow = self.CONST_INF - flow
 			currentVertex = destiny
 			while(currentVertex != source):
-				currentFlow = min(currentFlow, self.capacityMatrix[path[currentVertex]][currentVertex])
+				currentFlow = min(currentFlow,
+					 self.capacityMatrix[path[currentVertex]][currentVertex])
 				currentVertex = path[currentVertex]
 
 			flow += currentFlow
