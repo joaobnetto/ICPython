@@ -37,7 +37,7 @@ def assignLessonsToRoom(Rooms, Lessons, finalLessons):
 		for lesson in Lessons:
 			minCapacity = (int) (room.cap - room.cap * percentagePrecison)
 			maxCapacity = (int) (room.cap + room.cap * percentagePrecison)
-			if(room.bld == lesson.bld and room.roomType == lesson.roomType 
+			if(int(room.bld) == int(lesson.bld) and int(room.roomType) == int(lesson.roomType) 
 				and minCapacity <= lesson.vacan and maxCapacity >= lesson.vacan):
 				cost = calculateCost(room, lesson)
 				edges.append([lesson.tmpId, startOfRooms + roomCount, cost, 1])
@@ -137,10 +137,8 @@ def writeAllocationToArchive(finalLessons):
 		count = count + 1 if lesson.room == -1 else count
 		memberList = [lesson.uniqueId, lesson.group, lesson.solicit,
 					 lesson.course, lesson.entity, lesson.day, lesson.hour,
-					 lesson.bld, lesson.roomType, 
-					 lesson.room if lesson.room != -1 else " ",
-					 lesson.vacan, lesson.matric, lesson.priori, 
-					 lesson.special, "\n"]
+					 lesson.bld, lesson.roomType, lesson.room, lesson.vacan,
+					 lesson.matric, lesson.priori, lesson.special, "\n"]
 		line = " ".join(map(str, memberList))
 		file.write(line)
 	print(count)
