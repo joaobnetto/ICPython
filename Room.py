@@ -9,3 +9,10 @@ class Room:
 		self.roomType = roomType
 		self.special = special
 		self.name = name
+		self.dayHour = [[0 for _ in range(18)] for _ in range(8)]
+
+	def assignClass(self, day, hour, requestID):
+		self.dayHour[day][hour] = requestID
+
+	def isRoomFullDayHour(self, day, hour):
+		return False if self.dayHour[day][hour] == 0 else True 
